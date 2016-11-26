@@ -1,0 +1,273 @@
+Apigee
+Providers
+API Resources
+Console
+Switch to…
+Sign up Sign in
+API
+
+Service
+
+Authentication
+foursquare-AuthenticatedUserFeedback ▶
+Request URL
+Send 
+
+▲
+Query*
+Template*
+Headers
+Parameter	Value	*Required Description
+USER_ID*		Identity of the user to get tips from. Pass self to get tips of the acting user. 
+Request
+GET /v2/users/43612781/tips?oauth_token=EPNHP0WQDCBYWBNBCTET1NH5NV1SKQG4MNYGQDGQULJUDUWA&v=20131016&sort=recent HTTP/1.1
+Host:
+api.foursquare.com
+X-Target-URI:
+https://api.foursquare.com
+Connection:
+Keep-Alive
+ 
+Response Snapshot
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+191
+X-ex:
+fastly_cdn
+Content-Length:
+3295
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+497
+X-Served-By:
+cache-iad2148-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Mon, 02 Nov 2015 10:57:59 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "563741b7498e18d5e6f7ebfe"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 2,
+      "items":  [
+         {
+          "id": "5406c74f11d22809da498a9f",
+          "createdAt": 1409730383,
+          "text": "Excellent beef!!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5406c74f11d22809da498a9f",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "50f4024be4b03df39a405d95",
+            "name": "Mughal Garden",
+            "contact":  {},
+            "location":  {
+              "lat": 26.17991727008573,
+              "lng": 91.75996428435792,
+              "cc": "IN",
+              "city": "Guwahati",
+              "state": "Assam",
+              "country": "India",
+              "formattedAddress":  [
+                "Guwahati",
+                "Assam"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 11,
+              "usersCount": 7,
+              "tipCount": 1
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5132003ee4b018c1b9f6a648",
+                      "createdAt": 1362231358,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/15268161_btBs9CiveyR8LKjfCBgxymrgWqsg_1VbzwVgCV0nt9g.jpg",
+                      "width": 640,
+                      "height": 480,
+                      "user":  {
+                        "id": "15268161",
+                        "firstName": "Elvira",
+                        "lastName": "Threeyama",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/BQKDULZUCBO4WL5D.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "5146e039e4b0634befa82c99",
+          "createdAt": 1363599417,
+          "text": "Filled with kids sharing a coke and fries for hours on end. Avoid it if you don't wanna wait for a seat for 10 mins!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5146e039e4b0634befa82c99",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b34ff72f964a5209e2925e3",
+            "name": "McDonald's",
+            "contact":  {},
+            "location":  {
+              "address": "Vithalbhai Patel Rd.",
+              "crossStreet": "Linking Road, Bandra (W)",
+              "lat": 19.065820349161594,
+              "lng": 72.83437728881836,
+              "postalCode": "400052",
+              "cc": "IN",
+              "city": "Mumbai",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "Vithalbhai Patel Rd. (Linking Road, Bandra (W))",
+                "Mumbai 400052",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16c941735",
+                "name": "Burger Joint",
+                "pluralName": "Burger Joints",
+                "shortName": "Burgers",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 2284,
+              "usersCount": 1413,
+              "tipCount": 41
+            },
+            "url": "http://mcdonaldsindia.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 6.7,
+            "ratingSignals": 103,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51892895498ec638ee175fde",
+                      "createdAt": 1367943317,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/20509533_FTZZGbIJSSu0m42SlJ-7nnC-X1nnA0zGEGCqEdFadGI.jpg",
+                      "width": 1920,
+                      "height": 1440,
+                      "user":  {
+                        "id": "20509533",
+                        "firstName": "Ѵєяσηιcα ƝσєƖ",
+                        "lastName": "Ɗαηι",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/20509533-BKQQN5ZB3IJ5U5LV.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

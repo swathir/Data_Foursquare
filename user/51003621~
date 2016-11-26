@@ -1,0 +1,275 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+24
+X-ex:
+fastly_cdn
+Content-Length:
+3838
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+497
+X-Served-By:
+cache-iad2123-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Wed, 04 Nov 2015 08:51:32 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "5639c714498ea48aef6f7758"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 2,
+      "items":  [
+         {
+          "id": "51583c2ee4b0a9d4cd7b0bbd",
+          "createdAt": 1364737070,
+          "text": "Best South Indian filter coffee!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51583c2ee4b0a9d4cd7b0bbd",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "50832435",
+                    "firstName": "Mihir",
+                    "lastName": "Rego",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/NDQC5JJMAM44RUU5.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b76779cf964a520864d2ee3",
+            "name": "Indian Coffee House",
+            "contact":  {
+              "phone": "08025587088",
+              "formattedPhone": "080 2558 7088"
+            },
+            "location":  {
+              "address": "Unit 37-38, Shrungar Shopping Center",
+              "crossStreet": "Church St",
+              "lat": 12.975076660730544,
+              "lng": 77.60557651519775,
+              "postalCode": "560001",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Unit 37-38, Shrungar Shopping Center (Church St)",
+                "Bangalore 560001",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1e0931735",
+                "name": "Coffee Shop",
+                "pluralName": "Coffee Shops",
+                "shortName": "Coffee Shop",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1867,
+              "usersCount": 938,
+              "tipCount": 53
+            },
+            "url": "http://indiancoffeehouse.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 7.8,
+            "ratingSignals": 121,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "515fcdeee4b0eb9b23211f30",
+                      "createdAt": 1365233134,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/51003621_xjaUuDTGDtV0G6HILaqWANtVC11BiCz2oE9x10albhM.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "51003621",
+                        "firstName": "Shruti",
+                        "lastName": "Rego",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/L53CY1TIABWT252S.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "514e8f91e4b017660937b9b6",
+          "createdAt": 1364103057,
+          "text": "Got food poisoning because they used some spoilt cheese in their baked potato. Be very very careful over here!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/514e8f91e4b017660937b9b6",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b92154ff964a52071e633e3",
+            "name": "Millers 46",
+            "contact":  {
+              "phone": "08041148022",
+              "formattedPhone": "080 4114 8022",
+              "twitter": "millers46",
+              "facebook": "196797228143",
+              "facebookUsername": "millers46",
+              "facebookName": "Millers 46"
+            },
+            "location":  {
+              "address": "46 Millers Road",
+              "lat": 12.991803946731741,
+              "lng": 77.59411811828613,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "46 Millers Road",
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1cc941735",
+                "name": "Steakhouse",
+                "pluralName": "Steakhouses",
+                "shortName": "Steakhouse",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1933,
+              "usersCount": 1205,
+              "tipCount": 55
+            },
+            "url": "http://millers46.com",
+            "price":  {
+              "tier": 4,
+              "message": "Very Expensive",
+              "currency": "₹"
+            },
+            "rating": 9.3,
+            "ratingSignals": 162,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fd229e7e4b00ceb462d516f",
+                      "createdAt": 1339173351,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/afIw5Mj4Om3VsHYHdsqCmoEn242bvLltqVxSMZclsvU.jpg",
+                      "width": 540,
+                      "height": 720,
+                      "user":  {
+                        "id": "519666",
+                        "firstName": "Matthew",
+                        "lastName": "Abraham",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/DLUDE1DYZADGNG2T.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,263 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+32
+X-ex:
+fastly_cdn
+Content-Length:
+3595
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+468
+X-Served-By:
+cache-iad2141-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Tue, 03 Nov 2015 09:36:53 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56388035498e6459184ade76"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 2,
+      "items":  [
+         {
+          "id": "5120b370e4b045d0392e3b20",
+          "createdAt": 1361097584,
+          "text": "The Hot Chocolate and the Classic Glazed Doughnut is what I have, every time I'm there.",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5120b370e4b045d0392e3b20",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4fae55f3e4b047f11d17675f",
+            "name": "Dunkin' Donuts",
+            "contact":  {},
+            "location":  {
+              "address": "N 6, Outer Circle, Connaught Place",
+              "crossStreet": "Connaught Place",
+              "lat": 28.630246870285934,
+              "lng": 77.21957417893388,
+              "postalCode": "110001",
+              "cc": "IN",
+              "city": "New Delhi",
+              "state": "Delhi",
+              "country": "India",
+              "formattedAddress":  [
+                "N 6, Outer Circle, Connaught Place (Connaught Place)",
+                "New Delhi 110001",
+                "Delhi"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d148941735",
+                "name": "Donut Shop",
+                "pluralName": "Donut Shops",
+                "shortName": "Donuts",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/donuts_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1569,
+              "usersCount": 916,
+              "tipCount": 52
+            },
+            "url": "http://www.dunkinindia.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 7.7,
+            "ratingSignals": 155,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fb3dd2ae4b01462acb6c5ad",
+                      "createdAt": 1337187626,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/bvViwAYAGVW1y8A3CvjDiuKun_oF8WdBpscx29GX20I",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "13315281",
+                        "firstName": "Subesh",
+                        "lastName": "Prakash",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/ZHLOP5UQBPDSAMW0.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "5116511de4b0731585eb7ff2",
+          "createdAt": 1360417053,
+          "text": "You must try the Chicken Quiche + All the Pies here. They're simply AMAZING!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5116511de4b0731585eb7ff2",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "22548737",
+                    "firstName": "Savreen",
+                    "lastName": "Gadhoke",
+                    "gender": "female",
+                    "photo":  {
+                      "prefix": "https://irs0.4sqi.net/img/user/",
+                      "suffix": "/22548737-BZPU0DXXRV2LSCPS.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c5eccf06ebe2d7f2f7cd62e",
+            "name": "Open Oven",
+            "contact":  {},
+            "location":  {
+              "address": "E-564, Greater Kailash II",
+              "lat": 28.53956875365411,
+              "lng": 77.23998485668052,
+              "cc": "IN",
+              "city": "New Delhi",
+              "state": "Delhi",
+              "country": "India",
+              "formattedAddress":  [
+                "E-564, Greater Kailash II",
+                "New Delhi",
+                "Delhi"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16a941735",
+                "name": "Bakery",
+                "pluralName": "Bakeries",
+                "shortName": "Bakery",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 190,
+              "usersCount": 79,
+              "tipCount": 3
+            },
+            "url": "http://openoven.co.in",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "53ca94f9498eccc494c2b88c",
+                      "createdAt": 1405785337,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/48078770_tP-vs8USN8bK3TvI0IImEPgtwF-np23p5w7IvmLZSd4.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "48078770",
+                        "firstName": "Kumar",
+                        "lastName": "Ashutosh",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/48078770-TVEDAZMFYDWALUQX.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

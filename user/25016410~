@@ -1,0 +1,170 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+22
+X-ex:
+fastly_cdn
+Content-Length:
+2286
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+483
+X-Served-By:
+cache-iad2143-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Tue, 03 Nov 2015 09:26:17 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56387db9498e67a4c2f7f659"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 1,
+      "items":  [
+         {
+          "id": "4f788511e4b06ff83735971c",
+          "createdAt": 1333298449,
+          "text": "Cafe mòcha is one to be tried.",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f788511e4b06ff83735971c",
+          "photo":  {
+            "id": "4f78851de4b0a35da54d4986",
+            "createdAt": 1333298461,
+            "source":  {
+              "name": "Foursquare for Android",
+              "url": "https://foursquare.com/download/#/android"
+            },
+            "prefix": "https://irs0.4sqi.net/img/general/",
+            "suffix": "/nq98j97LUHuznjhLHMv1k5cmTMUIgAspKmO2dpuw0_U.jpg",
+            "width": 540,
+            "height": 720
+          },
+          "photourl": "https://irs0.4sqi.net/img/general/original/nq98j97LUHuznjhLHMv1k5cmTMUIgAspKmO2dpuw0_U.jpg",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4d66168d84f28cfa261a6769",
+            "name": "Cafe Coffee Day",
+            "contact":  {
+              "phone": "09323314149",
+              "formattedPhone": "093 23 314149",
+              "twitter": "cafecoffeeday"
+            },
+            "location":  {
+              "address": "Panchpakhadi",
+              "crossStreet": "Shop No. 6 & 7, Akanksha Society,",
+              "lat": 19.192716783309987,
+              "lng": 72.96730756759644,
+              "postalCode": "400602",
+              "cc": "IN",
+              "city": "Thāne",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "Panchpakhadi (Shop No. 6 & 7, Akanksha Society,)",
+                "Thāne 400602",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1e0931735",
+                "name": "Coffee Shop",
+                "pluralName": "Coffee Shops",
+                "shortName": "Coffee Shop",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 532,
+              "usersCount": 188,
+              "tipCount": 9
+            },
+            "url": "http://www.cafecoffeeday.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 6.5,
+            "ratingSignals": 29,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4f78851de4b0a35da54d4986",
+                      "createdAt": 1333298461,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/nq98j97LUHuznjhLHMv1k5cmTMUIgAspKmO2dpuw0_U.jpg",
+                      "width": 540,
+                      "height": 720,
+                      "user":  {
+                        "id": "25016410",
+                        "firstName": "Mohak",
+                        "lastName": "Sumaria",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/0HQHMGGE2NXLZPLB.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

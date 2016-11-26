@@ -1,0 +1,393 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "563742cb498e7865b6ac15c2"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 4,
+      "items":  [
+         {
+          "id": "538201f7498e4561c0aaa708",
+          "createdAt": 1401029111,
+          "text": "Vegetable cutlet + Masala Dosa + authentic blend of coffee! Still retains it's affordable price list and quality :)",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/538201f7498e4561c0aaa708",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b76779cf964a520864d2ee3",
+            "name": "Indian Coffee House",
+            "contact":  {
+              "phone": "08025587088",
+              "formattedPhone": "080 2558 7088"
+            },
+            "location":  {
+              "address": "Unit 37-38, Shrungar Shopping Center",
+              "crossStreet": "Church St",
+              "lat": 12.975076660730544,
+              "lng": 77.60557651519775,
+              "postalCode": "560001",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Unit 37-38, Shrungar Shopping Center (Church St)",
+                "Bangalore 560001",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1e0931735",
+                "name": "Coffee Shop",
+                "pluralName": "Coffee Shops",
+                "shortName": "Coffee Shop",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1867,
+              "usersCount": 938,
+              "tipCount": 53
+            },
+            "url": "http://indiancoffeehouse.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 7.7,
+            "ratingSignals": 121,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "515fcdeee4b0eb9b23211f30",
+                      "createdAt": 1365233134,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/51003621_xjaUuDTGDtV0G6HILaqWANtVC11BiCz2oE9x10albhM.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "51003621",
+                        "firstName": "Shruti",
+                        "lastName": "Rego",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/L53CY1TIABWT252S.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "53247ee1498e00afde9997be",
+          "createdAt": 1394900705,
+          "text": "Peri Peri Chicken Skewers + Chicken Bolognese Lasagne : A must try! The Peri Peri sauce may leave you tears though :D",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/53247ee1498e00afde9997be",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "50f17dbee4b0d0765c1240e9",
+            "name": "Rasta Pasta",
+            "contact":  {},
+            "location":  {
+              "lat": 12.928971071272658,
+              "lng": 77.58160106520225,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d110941735",
+                "name": "Italian Restaurant",
+                "pluralName": "Italian Restaurants",
+                "shortName": "Italian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 69,
+              "usersCount": 52,
+              "tipCount": 5
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "53397a66498ebde2968cd1f9",
+                      "createdAt": 1396275814,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/80613516_Bq2lXy7j4hF_Ik5Dr3ovBTTGkC5p9ap4Y7UpEE4VD6Q.jpg",
+                      "width": 960,
+                      "height": 960,
+                      "user":  {
+                        "id": "80613516",
+                        "firstName": "Bidisha",
+                        "lastName": "Barat",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/80613516-44PFTFSGMAGRHF0X.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "53185e36498e03aaf70def19",
+          "createdAt": 1394105910,
+          "text": "Bluish hue ambience, great service coupled with a variety of Continental + Indian fare :) Lamb in red wine sauce , lamb pepper steak, chicken lasagne and isys grill are worth a try!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/53185e36498e03aaf70def19",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4e3114b718380c94aca735d1",
+            "name": "Isys",
+            "contact":  {},
+            "location":  {
+              "address": "Elephant Cave Road",
+              "crossStreet": "Jayanagar 4th Block",
+              "lat": 12.933528535564381,
+              "lng": 77.58312887896128,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Elephant Cave Road (Jayanagar 4th Block)",
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 81,
+              "usersCount": 60,
+              "tipCount": 4
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "529ee9a111d2c0f3bb5b28fa",
+                      "createdAt": 1386146209,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/71447445_yzpnAX7akQO6AT3kGOMxN8LO3HrPe_ZGRUTkJ_-kqUA.jpg",
+                      "width": 543,
+                      "height": 960,
+                      "user":  {
+                        "id": "71447445",
+                        "firstName": "Shreeram",
+                        "lastName": "Srinivasan",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/71447445-2SUZBNOVBEZZQ5W4"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "53181f01498e45104b8930a0",
+          "createdAt": 1394089729,
+          "text": "Lamb Burger + Mayo + Mississippi Mud Pie = Heaven :)",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/53181f01498e45104b8930a0",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4bd446b341b9ef3b27a801e6",
+            "name": "Truffles - Ice & Spice",
+            "contact":  {
+              "phone": "08041121160",
+              "formattedPhone": "080 4112 1160"
+            },
+            "location":  {
+              "address": "#22",
+              "crossStreet": "St. Marks Rd",
+              "lat": 12.971556788840994,
+              "lng": 77.60106935122289,
+              "postalCode": "560001",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "#22 (St. Marks Rd)",
+                "Bangalore 560001",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16c941735",
+                "name": "Burger Joint",
+                "pluralName": "Burger Joints",
+                "shortName": "Burgers",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 3733,
+              "usersCount": 1674,
+              "tipCount": 88
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 9.4,
+            "ratingSignals": 300,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fe1fe91e4b0f7406e175212",
+                      "createdAt": 1340210833,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/d7xNgJDpNzjWGUvv5R7RNF-SvNkdGvPocG_bZLZRfFA.jpg",
+                      "width": 540,
+                      "height": 720,
+                      "user":  {
+                        "id": "392186",
+                        "firstName": "Abhijith",
+                        "lastName": "Rao",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/KSXJ2YCX1DP5DUHQ.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

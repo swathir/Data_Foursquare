@@ -1,0 +1,213 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "563882b8498e8184cc0c5a25"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 2,
+      "items":  [
+         {
+          "id": "514434a4e4b08e9c836c918c",
+          "createdAt": 1363424420,
+          "text": "Blueberry shake is awesome, clubbed with aloo puff & eggless mayo.",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/514434a4e4b08e9c836c918c",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4f3e232ae4b02744e459c29f",
+            "name": "Theo's Bakery",
+            "contact":  {},
+            "location":  {
+              "address": "B120, Central Market",
+              "crossStreet": "Sector-50",
+              "lat": 28.57070260789209,
+              "lng": 77.3621445558422,
+              "cc": "IN",
+              "city": "Noida",
+              "state": "Uttar Pradesh",
+              "country": "India",
+              "formattedAddress":  [
+                "B120, Central Market (Sector-50)",
+                "Noida",
+                "Uttar Pradesh"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16a941735",
+                "name": "Bakery",
+                "pluralName": "Bakeries",
+                "shortName": "Bakery",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 242,
+              "usersCount": 141,
+              "tipCount": 8
+            },
+            "url": "http://theosfood.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 7.9,
+            "ratingSignals": 20,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "507d4414e4b04eb88c99ef33",
+                      "createdAt": 1350386708,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/17196843_Hj91-BfEyPW7Wi_x18cpG5kKCvk0kUj-N6aKHZNnEkM.jpg",
+                      "width": 537,
+                      "height": 720,
+                      "user":  {
+                        "id": "17196843",
+                        "firstName": "Amar",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/AP0VP3TMD2G3BQZ2.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "5120d616e4b0c37decdcd8a7",
+          "createdAt": 1361106454,
+          "text": "Try white sauce pasta!!!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5120d616e4b0c37decdcd8a7",
+          "photo":  {
+            "id": "5120d629e4b00b0e5b47edf1",
+            "createdAt": 1361106473,
+            "source":  {
+              "name": "Foursquare for iOS",
+              "url": "https://foursquare.com/download/#/iphone"
+            },
+            "prefix": "https://irs3.4sqi.net/img/general/",
+            "suffix": "/43569275_DHHKnuerz7uhAVWlAS0GhSqC7QGnRxRvQAcbrhSy0Dg.jpg",
+            "width": 720,
+            "height": 960
+          },
+          "photourl": "https://irs3.4sqi.net/img/general/original/43569275_DHHKnuerz7uhAVWlAS0GhSqC7QGnRxRvQAcbrhSy0Dg.jpg",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4d809eb77c956dcbf711e37b",
+            "name": "Hungry I",
+            "contact":  {},
+            "location":  {
+              "lat": 28.557975689579646,
+              "lng": 77.33226019034679,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16e941735",
+                "name": "Fast Food Restaurant",
+                "pluralName": "Fast Food Restaurants",
+                "shortName": "Fast Food",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 82,
+              "usersCount": 46,
+              "tipCount": 2
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 5.9,
+            "ratingSignals": 10,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51405e07e4b01455384d2a58",
+                      "createdAt": 1363172871,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/49277150_JLNQ53yop-4rn8gXbriTcBo25j91683TxIaUbLqqUmg.jpg",
+                      "width": 720,
+                      "height": 960,
+                      "user":  {
+                        "id": "49277150",
+                        "firstName": "Kabeer",
+                        "lastName": "Bhatia",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/RRDYPT0IHNJ1KIA4.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

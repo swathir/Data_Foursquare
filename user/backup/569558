@@ -1,0 +1,72 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "5639caf0498e87d78e8fcc8f"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 1,
+      "items":  [
+         {
+          "id": "4bf0376570c603bb76c19bb4",
+          "createdAt": 1274034021,
+          "text": "Must have the Philadelphia Cheesecake and also the Bruschettas..",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4bf0376570c603bb76c19bb4",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  []
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 1
+          },
+          "venue":  {
+            "id": "4b795b42f964a5208bf52ee3",
+            "name": "Oro Cafe",
+            "contact":  {},
+            "location":  {
+              "address": "Chembur",
+              "crossStreet": "Central Avenue Road",
+              "lat": 19.0573314885812,
+              "lng": 72.90003776550293,
+              "postalCode": "400071",
+              "cc": "IN",
+              "city": "Mumbai",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "Chembur (Central Avenue Road)",
+                "Mumbai 400071",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 21,
+              "usersCount": 12,
+              "tipCount": 2
+            }
+          }
+        }
+      ]
+    }
+  }
+}

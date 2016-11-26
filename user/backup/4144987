@@ -1,0 +1,242 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "5639c90c498e318249b9d4d4"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 2,
+      "items":  [
+         {
+          "id": "52dadaac11d2344fc569ba19",
+          "createdAt": 1390074540,
+          "text": "Been coming here for years. Love the staff!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/52dadaac11d2344fc569ba19",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4a58b7f6f964a520b5b71fe3",
+            "name": "Garden Grill",
+            "contact":  {
+              "phone": "+17183848668",
+              "formattedPhone": "+1 718-384-8668"
+            },
+            "location":  {
+              "address": "318 Graham Ave",
+              "crossStreet": "Ainslie St.",
+              "lat": 40.71356657826433,
+              "lng": -73.94409620410673,
+              "postalCode": "11211",
+              "cc": "US",
+              "city": "Brooklyn",
+              "state": "NY",
+              "country": "United States",
+              "formattedAddress":  [
+                "318 Graham Ave (Ainslie St.)",
+                "Brooklyn, NY 11211",
+                "United States"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d147941735",
+                "name": "Diner",
+                "pluralName": "Diners",
+                "shortName": "Diner",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 3655,
+              "usersCount": 812,
+              "tipCount": 19
+            },
+            "url": "http://gardengrillcoffeeshop.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "$"
+            },
+            "hasMenu": true,
+            "rating": 6.8,
+            "ratingSignals": 37,
+            "delivery":  {
+              "id": "19884",
+              "url": "http://www.seamless.com/food-delivery/restaurant.19884.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+              "provider":  {
+                "name": "seamless"
+              }
+            },
+            "menu":  {
+              "type": "Menu",
+              "label": "Menu",
+              "anchor": "View Menu",
+              "url": "https://foursquare.com/v/garden-grill/4a58b7f6f964a520b5b71fe3/menu",
+              "mobileUrl": "https://foursquare.com/v/4a58b7f6f964a520b5b71fe3/device_menu"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "523747d111d20a4090b05609",
+                      "createdAt": 1379354577,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/20686764_LpawYuNdtdtQNfjMvMdv5OSs34GnsEcw5GdZ_4_jm1g.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "20686764",
+                        "firstName": "Richard",
+                        "lastName": "Torres",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/20686764-N31TP302JRGKR1I4.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            },
+            "venuePage":  {
+              "id": "80032391"
+            }
+          }
+        },
+         {
+          "id": "4d62e97ae00ea09001411072",
+          "createdAt": 1298327930,
+          "text": "love the staff there. super friendly!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4d62e97ae00ea09001411072",
+          "likes":  {
+            "count": 4,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 4,
+                "items":  [
+                   {
+                    "id": "1170943",
+                    "firstName": "Steve",
+                    "lastName": "McGinn",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/EPQPGDZNQWX1RZAN.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "4 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4a930420f964a520891e20e3",
+            "name": "Williamsburg Animal Clinic",
+            "contact":  {},
+            "location":  {
+              "address": "760 Grand St",
+              "crossStreet": "Between Graham and Humboldt",
+              "lat": 40.711818,
+              "lng": -73.942839,
+              "cc": "US",
+              "city": "New York",
+              "state": "NY",
+              "country": "United States",
+              "formattedAddress":  [
+                "760 Grand St (Between Graham and Humboldt)",
+                "New York, NY",
+                "United States"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4d954af4a243a5684765b473",
+                "name": "Veterinarian",
+                "pluralName": "Veterinarians",
+                "shortName": "Veterinarians",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_veterinarian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1047,
+              "usersCount": 436,
+              "tipCount": 15
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51b8afbc498e2605108a052d",
+                      "createdAt": 1371058108,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/2200514_WGwPGOWCa0xlpnHKy3QGWOQzE4Z0qOShkgdMJpBwSRQ.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "2200514",
+                        "firstName": "destroy",
+                        "lastName": "rebuild",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/B0ZN4ZQSXSG5KH3F.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

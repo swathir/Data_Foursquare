@@ -1,0 +1,179 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56387f88498e670ba433039e"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 2,
+      "items":  [
+         {
+          "id": "5200a70b498ea7b5304a8a36",
+          "createdAt": 1375774475,
+          "text": "The Chicken Tikka Kathi Rolls are to die for ^_^",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5200a70b498ea7b5304a8a36",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "50c4bccde4b029171470dc77",
+            "name": "Aap Ki Khatir",
+            "contact":  {},
+            "location":  {
+              "lat": 28.55128978256277,
+              "lng": 77.19969339448322,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 53,
+              "usersCount": 28,
+              "tipCount": 3
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true
+          }
+        },
+         {
+          "id": "51dc488b498e7c1baa1918cb",
+          "createdAt": 1373390987,
+          "text": "Mutton Keema Egg Roll & Double Chicken Double Egg Roll with the green chutney ^_^ to die for!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51dc488b498e7c1baa1918cb",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c81266451ada1cd2bee0f10",
+            "name": "Nizam's Kathi Kabab",
+            "contact":  {
+              "phone": "01146562876",
+              "formattedPhone": "011 4656 2876"
+            },
+            "location":  {
+              "address": "Defence Colony",
+              "crossStreet": "Commercial Complex",
+              "lat": 28.566685117611367,
+              "lng": 77.23400123388184,
+              "cc": "IN",
+              "city": "Delhi",
+              "state": "Delhi",
+              "country": "India",
+              "formattedAddress":  [
+                "Defence Colony (Commercial Complex)",
+                "Delhi",
+                "Delhi"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 154,
+              "usersCount": 110,
+              "tipCount": 7
+            },
+            "url": "http://nizams.com",
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "hasMenu": true,
+            "rating": 7.3,
+            "ratingSignals": 19,
+            "menu":  {
+              "type": "Menu",
+              "label": "Menu",
+              "anchor": "View Menu",
+              "url": "https://foursquare.com/v/nizams-kathi-kabab/4c81266451ada1cd2bee0f10/menu",
+              "mobileUrl": "https://foursquare.com/v/4c81266451ada1cd2bee0f10/device_menu"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51f96b4e498e52b331e9e087",
+                      "createdAt": 1375300430,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/472509_EJy5YivKkdZDsZDDyizrPjYycaUJ-gAspmlG8GWcyTk.jpg",
+                      "width": 612,
+                      "height": 612,
+                      "user":  {
+                        "id": "472509",
+                        "firstName": "Mohak",
+                        "lastName": "Gambhir",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/ZBI1CHIFJXQU4H2N.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

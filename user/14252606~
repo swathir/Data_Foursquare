@@ -1,0 +1,619 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+92
+X-ex:
+fastly_cdn
+Content-Length:
+9822
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+482
+X-Served-By:
+cache-iad2146-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Mon, 02 Nov 2015 11:08:33 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56374431498e054dde26ccd3"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 6,
+      "items":  [
+         {
+          "id": "5330260911d24d9ee3fe50e2",
+          "createdAt": 1395664393,
+          "text": "Try the offbeat items like narkoler (coconut) chop, soybean chop and also their dhoka is great",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5330260911d24d9ee3fe50e2",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "510a7e88e4b01d2a603e83fc",
+            "name": "Laxmi Narayan Sahu",
+            "contact":  {},
+            "location":  {
+              "lat": 22.59194618510529,
+              "lng": 88.37044777182693,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16e941735",
+                "name": "Fast Food Restaurant",
+                "pluralName": "Fast Food Restaurants",
+                "shortName": "Fast Food",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 3,
+              "usersCount": 1,
+              "tipCount": 1
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "510a7eefe4b03676f1e194eb",
+                      "createdAt": 1359642351,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/14252606_rOsVq4FGzZ7vQxFqiki4n7JruGjnsa8llk9kti3lRBk.jpg",
+                      "width": 540,
+                      "height": 720,
+                      "user":  {
+                        "id": "14252606",
+                        "firstName": "Sumit",
+                        "lastName": "Surai",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/NWZFEEFOS14VKKNQ.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "51682a50e4b07e14469af750",
+          "createdAt": 1365781072,
+          "text": "Wonton soup, yam mein, pork in hamei sauce",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51682a50e4b07e14469af750",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4f9abf8ae4b0027bd39baf8f",
+            "name": "Tung Nam",
+            "contact":  {
+              "phone": "03322374434",
+              "formattedPhone": "033 2237 4434"
+            },
+            "location":  {
+              "address": "21& 24, B. B. Ganguly St",
+              "lat": 22.572328689388932,
+              "lng": 88.35539817810059,
+              "postalCode": "700073",
+              "cc": "IN",
+              "city": "Kolkata",
+              "state": "West Bengal",
+              "country": "India",
+              "formattedAddress":  [
+                "21& 24, B. B. Ganguly St",
+                "Kolkata 700073",
+                "West Bengal"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d145941735",
+                "name": "Chinese Restaurant",
+                "pluralName": "Chinese Restaurants",
+                "shortName": "Chinese",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 23,
+              "usersCount": 7,
+              "tipCount": 2
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "53770a21498e869e3304c242",
+                      "createdAt": 1400310305,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/73068400_QWv5jSbOQ92B9D89w_iQ44akbR9agBF7i9NyLi7Zsv0.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "73068400",
+                        "firstName": "Rajashree",
+                        "lastName": "Talukdar",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/73068400-H34JMN3XCY1IV1S5.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "515f0111e4b05a868ab41a66",
+          "createdAt": 1365180689,
+          "text": "Tasty and value for money Bengali food",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/515f0111e4b05a868ab41a66",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4ec0e6402c5b252c1a1d70b0",
+            "name": "Bhojohori Manna",
+            "contact":  {
+              "phone": "03366064206",
+              "formattedPhone": "033 6606 4206"
+            },
+            "location":  {
+              "address": "Star Theatre",
+              "lat": 22.594389725636333,
+              "lng": 88.37107300758362,
+              "postalCode": "700006",
+              "cc": "IN",
+              "city": "Kolkata",
+              "state": "West Bengal",
+              "country": "India",
+              "formattedAddress":  [
+                "Star Theatre",
+                "Kolkata 700006",
+                "West Bengal"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "54135bf5e4b08f3d2429dff5",
+                "name": "Bengali Restaurant",
+                "pluralName": "Bengali Restaurants",
+                "shortName": "Bengali",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 64,
+              "usersCount": 47,
+              "tipCount": 6
+            },
+            "url": "http://bhojohorimanna.com",
+            "rating": 6.9,
+            "ratingSignals": 9,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "534023c1498e9792e60f3759",
+                      "createdAt": 1396712385,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/45202860_erhhfZHVklmqQi2D4BtvJ8RCkKiBi11kXE1fGh7O9pI.jpg",
+                      "width": 574,
+                      "height": 960,
+                      "user":  {
+                        "id": "45202860",
+                        "firstName": "Sudip",
+                        "lastName": "Ghosh",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/SDMVY0I2RH1KTV3N.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "50f1d542e4b033e191602a18",
+          "createdAt": 1358026050,
+          "text": "One of the best Chinese restaurant in and around the old China Town. Great for wonton soup, chili pork, pepper fish",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/50f1d542e4b033e191602a18",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4f9abf8ae4b0027bd39baf8f",
+            "name": "Tung Nam",
+            "contact":  {
+              "phone": "03322374434",
+              "formattedPhone": "033 2237 4434"
+            },
+            "location":  {
+              "address": "21& 24, B. B. Ganguly St",
+              "lat": 22.572328689388932,
+              "lng": 88.35539817810059,
+              "postalCode": "700073",
+              "cc": "IN",
+              "city": "Kolkata",
+              "state": "West Bengal",
+              "country": "India",
+              "formattedAddress":  [
+                "21& 24, B. B. Ganguly St",
+                "Kolkata 700073",
+                "West Bengal"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d145941735",
+                "name": "Chinese Restaurant",
+                "pluralName": "Chinese Restaurants",
+                "shortName": "Chinese",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 23,
+              "usersCount": 7,
+              "tipCount": 2
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "53770a21498e869e3304c242",
+                      "createdAt": 1400310305,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/73068400_QWv5jSbOQ92B9D89w_iQ44akbR9agBF7i9NyLi7Zsv0.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "73068400",
+                        "firstName": "Rajashree",
+                        "lastName": "Talukdar",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/73068400-H34JMN3XCY1IV1S5.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "50f1d4d2e4b058f4cd13e6ef",
+          "createdAt": 1358025938,
+          "text": "Oldest surviving Chinese restaurant in India. Must visit place for Chimney soup, Joshephine noodles, chili pork",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/50f1d4d2e4b058f4cd13e6ef",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4fa244c6e4b0e0605de0e151",
+            "name": "Eau Chew",
+            "contact":  {},
+            "location":  {
+              "address": "Ganesh Chandra Rd",
+              "lat": 22.56867967818798,
+              "lng": 88.35454703627454,
+              "cc": "IN",
+              "city": "Kolkata",
+              "state": "West Bengal",
+              "country": "India",
+              "formattedAddress":  [
+                "Ganesh Chandra Rd",
+                "Kolkata",
+                "West Bengal"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d145941735",
+                "name": "Chinese Restaurant",
+                "pluralName": "Chinese Restaurants",
+                "shortName": "Chinese",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 23,
+              "usersCount": 13,
+              "tipCount": 1
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "53353dd9498e6b312148aa13",
+                      "createdAt": 1395998169,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/48509106_id_VzaYYRD3seSzckommWsV1dBRj4peOjbFicH2k55E.jpg",
+                      "width": 720,
+                      "height": 960,
+                      "user":  {
+                        "id": "48509106",
+                        "firstName": "Manideep",
+                        "lastName": "Banerjee",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/VAP42YDMUK2PI4GD.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "50eb3620e4b07ff469826a2b",
+          "createdAt": 1357592096,
+          "text": "Small but nice place for yummy Pork Thukpa, Momo, Ting Momo and Shaptas",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/50eb3620e4b07ff469826a2b",
+          "photo":  {
+            "id": "50e97eb2e4b06ad59ab4dee8",
+            "createdAt": 1357479602,
+            "source":  {
+              "name": "Foursquare for Android",
+              "url": "https://foursquare.com/download/#/android"
+            },
+            "prefix": "https://irs3.4sqi.net/img/general/",
+            "suffix": "/14252606_AnJC68KIGLus8mo81MOep47-5jqp5ZxFktoCbsyJEdc.jpg",
+            "width": 720,
+            "height": 540
+          },
+          "photourl": "https://irs3.4sqi.net/img/general/original/14252606_AnJC68KIGLus8mo81MOep47-5jqp5ZxFktoCbsyJEdc.jpg",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "50d443eee4b098fb28cc81ca",
+            "name": "Momo I Am",
+            "contact":  {},
+            "location":  {
+              "address": "195C, Jodhpur Gardens",
+              "lat": 22.50305005004157,
+              "lng": 88.35818376681533,
+              "postalCode": "700045",
+              "cc": "IN",
+              "city": "Kolkata",
+              "state": "West Bengal",
+              "country": "India",
+              "formattedAddress":  [
+                "195C, Jodhpur Gardens",
+                "Kolkata 700045",
+                "West Bengal"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1f5931735",
+                "name": "Dim Sum Restaurant",
+                "pluralName": "Dim Sum Restaurants",
+                "shortName": "Dim Sum",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dimsum_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 48,
+              "usersCount": 28,
+              "tipCount": 4
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50e97eb2e4b06ad59ab4dee8",
+                      "createdAt": 1357479602,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/14252606_AnJC68KIGLus8mo81MOep47-5jqp5ZxFktoCbsyJEdc.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "14252606",
+                        "firstName": "Sumit",
+                        "lastName": "Surai",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/NWZFEEFOS14VKKNQ.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

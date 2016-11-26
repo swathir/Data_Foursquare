@@ -1,0 +1,142 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+23
+X-ex:
+fastly_cdn
+Content-Length:
+1643
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+474
+X-Served-By:
+cache-iad2122-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Tue, 03 Nov 2015 09:31:28 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56387ef0498eef7584535b18"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 1,
+      "items":  [
+         {
+          "id": "51c034d3498e789419704520",
+          "createdAt": 1371550931,
+          "text": "Vision india has 3 libraries in the same area...monopoly you see & thus the most expensive ones in the area with least set of services .",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51c034d3498e789419704520",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "51bf5db7498ea91cc6535f34",
+            "name": "Vision India Library",
+            "contact":  {},
+            "location":  {
+              "crossStreet": "Old Rajendra Nagar",
+              "lat": 28.639101686280153,
+              "lng": 77.18302150594704,
+              "cc": "IN",
+              "city": "New Delhi",
+              "state": "Delhi",
+              "country": "India",
+              "formattedAddress":  [
+                "Old Rajendra Nagar",
+                "New Delhi",
+                "Delhi"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d12f941735",
+                "name": "Library",
+                "pluralName": "Libraries",
+                "shortName": "Library",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 30,
+              "usersCount": 5,
+              "tipCount": 2
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51c03533498e60fa899597a3",
+                      "createdAt": 1371551027,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/29130521_3RYXvIJ0stXM1NjPvN8LLHIKMXlUzodfuNExXHi83L4.jpg",
+                      "width": 480,
+                      "height": 640,
+                      "user":  {
+                        "id": "29130521",
+                        "firstName": "Ayush",
+                        "lastName": "Choudhary",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/WTUWH5SLZRJYA3J5.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

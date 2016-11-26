@@ -1,0 +1,114 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56387f38498e11569c5194ee"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 1,
+      "items":  [
+         {
+          "id": "55c8427c498eb014781852aa",
+          "createdAt": 1439187580,
+          "text": "The view and hospitality is amazing!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/55c8427c498eb014781852aa",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4d109500d21db60c01d52a18",
+            "name": "Indique",
+            "contact":  {},
+            "location":  {
+              "address": "Pal Haveli, Gulab Sagar",
+              "lat": 26.296442,
+              "lng": 73.02402019500732,
+              "cc": "IN",
+              "city": "Jodhpur",
+              "state": "Rājasthān",
+              "country": "India",
+              "formattedAddress":  [
+                "Pal Haveli, Gulab Sagar",
+                "Jodhpur",
+                "Rājasthān"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 199,
+              "usersCount": 167,
+              "tipCount": 10
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "rating": 8.5,
+            "ratingSignals": 26,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "55ccbbfa498e4bd1a908331f",
+                      "createdAt": 1439480826,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/10062996_YrgObPAfgZC8BpCuOjkVkOR_J_HCXUbbvA7jml_9weE.jpg",
+                      "width": 550,
+                      "height": 366,
+                      "user":  {
+                        "id": "10062996",
+                        "firstName": "Tri Hieu",
+                        "lastName": "Nguyen",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/XUNABFLR0TBZJ1SB.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

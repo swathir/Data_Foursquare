@@ -1,0 +1,93 @@
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56387a71498e0990c3ebf52b"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 1,
+      "items":  [
+         {
+          "id": "53085eb0498ec9d86fcad598",
+          "createdAt": 1393057456,
+          "text": "Konkan Region – Mumbai to Goa – MazoKonkan.In – Business / Marketing Offers",
+          "type": "user",
+          "url": "http://mazokonkan.wordpress.com/2013/11/22/konkan-region-mumbai-to-goa-mazokonkan-in-business-marketing-offers/",
+          "canonicalUrl": "https://foursquare.com/item/53085eb0498ec9d86fcad598",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "62754241",
+                    "firstName": "Vinayak",
+                    "lastName": "Nar",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/RNXKPEOVIRN2ATPO"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "5234255311d2fa119732d2cd",
+            "name": "Raghuvir's Food Park",
+            "contact":  {},
+            "location":  {
+              "lat": 18.079697635848696,
+              "lng": 73.46939983970121,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 3,
+              "usersCount": 3,
+              "tipCount": 1
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true
+          }
+        }
+      ]
+    }
+  }
+}

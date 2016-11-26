@@ -1,0 +1,344 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "563736db498e75fdb213567b"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 4,
+      "items":  [
+         {
+          "id": "5350daf8498eeb6655aeba0e",
+          "createdAt": 1397807864,
+          "text": "If u have a flair for bengali sweets KC Das is a very time name",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5350daf8498eeb6655aeba0e",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4cf2686b899c6ea8e32ff6c1",
+            "name": "K.C Das",
+            "contact":  {},
+            "location":  {
+              "address": "J P Nagar Ring Rd",
+              "lat": 12.906125223746942,
+              "lng": 77.59498132579822,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "J P Nagar Ring Rd",
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1c7941735",
+                "name": "Snack Place",
+                "pluralName": "Snack Places",
+                "shortName": "Snacks",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/snacks_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 96,
+              "usersCount": 61,
+              "tipCount": 2
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true
+          }
+        },
+         {
+          "id": "5273ca55498e9d6d5e611362",
+          "createdAt": 1383320149,
+          "text": "Just passingbu",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5273ca55498e9d6d5e611362",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4f5373e7e4b0ee60ba1066e6",
+            "name": "Madhuloka Liquor Boutique",
+            "contact":  {
+              "phone": "08042112300",
+              "formattedPhone": "080 4211 2300"
+            },
+            "location":  {
+              "lat": 12.890242596148854,
+              "lng": 77.59773440738326,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d186941735",
+                "name": "Liquor Store",
+                "pluralName": "Liquor Stores",
+                "shortName": "Liquor Store",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 110,
+              "usersCount": 67,
+              "tipCount": 4
+            },
+            "url": "http://www.madhuloka.com",
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "53eeefa511d213c501c2b4b3",
+                      "createdAt": 1408167845,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/17327918_iXemSY6TWVijmNBB4yH7WZwz3OZxrviyMxUtvrw4XeA.jpg",
+                      "width": 900,
+                      "height": 900,
+                      "user":  {
+                        "id": "17327918",
+                        "firstName": "Ashish",
+                        "lastName": "Kavitkar",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/GNWNFGS542XHWT3P.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "526786a1498e00e2ee9cf2a1",
+          "createdAt": 1382516385,
+          "text": "Lot of traffoc",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/526786a1498e00e2ee9cf2a1",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c2c363a57a9c9b6622df767",
+            "name": "Lalbagh West Gate",
+            "contact":  {},
+            "location":  {
+              "lat": 12.948394311340548,
+              "lng": 77.5802993774414,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d163941735",
+                "name": "Park",
+                "pluralName": "Parks",
+                "shortName": "Park",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1331,
+              "usersCount": 508,
+              "tipCount": 10
+            },
+            "rating": 7.3,
+            "ratingSignals": 17,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "504c2669e4b0c9f21f77dea6",
+                      "createdAt": 1347167849,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/6xW-MC5SaUC9un-mqbz72Rn-PLbIvbK24y9a0fKH4Bs.jpg",
+                      "width": 720,
+                      "height": 405,
+                      "user":  {
+                        "id": "13478351",
+                        "firstName": "Aditya",
+                        "lastName": "Duggirala",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/13478351-PDYA1TAGZSULEKKV.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "52669d9d11d2a171975ff785",
+          "createdAt": 1382456733,
+          "text": "Nice place",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/52669d9d11d2a171975ff785",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4db7d7f6f7b15ca52cdd54f6",
+            "name": "Best Western La Marvella Hotel",
+            "contact":  {
+              "phone": "08043335334",
+              "formattedPhone": "080 4333 5334"
+            },
+            "location":  {
+              "address": "#1, 14th Cross, South-End Circle, 2nd Block, Jayanagar",
+              "lat": 12.936947558684848,
+              "lng": 77.58025791517679,
+              "postalCode": "560011",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "#1, 14th Cross, South-End Circle, 2nd Block, Jayanagar",
+                "Bangalore 560011",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1fa931735",
+                "name": "Hotel",
+                "pluralName": "Hotels",
+                "shortName": "Hotel",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 124,
+              "usersCount": 66,
+              "tipCount": 2
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4f446794e4b03d06827e48ea",
+                      "createdAt": 1329883028,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/Rh-lygZM24nMbT6CkjKpp1uj9svUzRPGJzfyHWX6spg.jpg",
+                      "width": 720,
+                      "height": 537,
+                      "user":  {
+                        "id": "954251",
+                        "firstName": "Naived",
+                        "lastName": "Merchant",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/954251-WBD32NZJXHL5U511.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

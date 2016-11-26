@@ -1,0 +1,130 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+24
+X-ex:
+fastly_cdn
+Content-Length:
+1263
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+480
+X-Served-By:
+cache-iad2120-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Mon, 02 Nov 2015 11:11:31 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "563744e3498ec3d7f4e3cee9"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 1,
+      "items":  [
+         {
+          "id": "537c2f5b11d2065ef5f0a3d0",
+          "createdAt": 1400647515,
+          "text": "Work work work",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/537c2f5b11d2065ef5f0a3d0",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4d7975df18db6ea863095353",
+            "name": "Exëvo",
+            "contact":  {},
+            "location":  {
+              "address": "Okhla",
+              "lat": 28.515817276916056,
+              "lng": 77.29500195750113,
+              "cc": "IN",
+              "city": "New Delhi",
+              "state": "Delhi",
+              "country": "India",
+              "formattedAddress":  [
+                "Okhla",
+                "New Delhi",
+                "Delhi"
+              ]
+            },
+            "categories":  [],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 16,
+              "usersCount": 7,
+              "tipCount": 1
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5386f0fa498ee2674c0f15e9",
+                      "createdAt": 1401352442,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/6719809_77nAq_q7_JcOZZBzSYlZvLJG4UMoUqVhEYU0O4LE2b8.jpg",
+                      "width": 612,
+                      "height": 612,
+                      "user":  {
+                        "id": "6719809",
+                        "firstName": "Nishant",
+                        "lastName": "Sirohi",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/UHFISFWMSNRPHSBD.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,358 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+39
+X-ex:
+fastly_cdn
+Content-Length:
+5579
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+464
+X-Served-By:
+cache-iad2125-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Tue, 03 Nov 2015 09:38:27 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56388093498e521536dddafb"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 3,
+      "items":  [
+         {
+          "id": "50d777a3e4b019a9e037ad1e",
+          "createdAt": 1356298147,
+          "text": "Best coffee in the outlets!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/50d777a3e4b019a9e037ad1e",
+          "photo":  {
+            "id": "50d777a9e4b0260d0dfb1c07",
+            "createdAt": 1356298153,
+            "source":  {
+              "name": "Foursquare for iOS",
+              "url": "https://foursquare.com/download/#/iphone"
+            },
+            "prefix": "https://irs2.4sqi.net/img/general/",
+            "suffix": "/21468350_ShrU2teBpTFWHSrocG5QsPvMiwGIdIwULzgkwWCmVX4.jpg",
+            "width": 717,
+            "height": 959
+          },
+          "photourl": "https://irs2.4sqi.net/img/general/original/21468350_ShrU2teBpTFWHSrocG5QsPvMiwGIdIwULzgkwWCmVX4.jpg",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "5096f97fe4b0038a612faa7d",
+            "name": "Cafe by Auntie Anne's And Cinnabon",
+            "contact":  {},
+            "location":  {
+              "address": "Paragon Outlets",
+              "lat": 37.69836055276512,
+              "lng": -121.84641744302293,
+              "postalCode": "94588",
+              "cc": "US",
+              "city": "Pleasanton",
+              "state": "CA",
+              "country": "United States",
+              "formattedAddress":  [
+                "Paragon Outlets",
+                "Pleasanton, CA 94588",
+                "United States"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16a941735",
+                "name": "Bakery",
+                "pluralName": "Bakeries",
+                "shortName": "Bakery",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 170,
+              "usersCount": 127,
+              "tipCount": 3
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "$"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "509c8a14e4b05e06b3d869eb",
+                      "createdAt": 1352436244,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/15653820_Ctdbxlcn2z7mR2I1gkZ4xLA0_iA3oLb2kNSreQUZSTI.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "15653820",
+                        "firstName": "Christina",
+                        "lastName": "Burkart",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/15653820-PS5P2N13NRBHDRFB.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f85d608e4b0ae40e1e4e9a5",
+          "createdAt": 1334171144,
+          "text": "Come meet local veterans of all eras every Saturday from 0730-0900 for coffee, doughnuts and conversation!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f85d608e4b0ae40e1e4e9a5",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b65fca9f964a520b50c2be3",
+            "name": "Veterans Memorial Building",
+            "contact":  {},
+            "location":  {
+              "address": "301 Main St",
+              "lat": 37.65872801497013,
+              "lng": -121.87723798410165,
+              "postalCode": "94566",
+              "cc": "US",
+              "city": "Pleasanton",
+              "state": "CA",
+              "country": "United States",
+              "formattedAddress":  [
+                "301 Main St",
+                "Pleasanton, CA 94566",
+                "United States"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d130941735",
+                "name": "Building",
+                "pluralName": "Buildings",
+                "shortName": "Building",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 328,
+              "usersCount": 83,
+              "tipCount": 4
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5629874c498ee2be0794199a",
+                      "createdAt": 1445562188,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/11196440_HJiZ35J_2hkugtjQwV4lR1wdaWSES69hVuAZLtjwtAQ.jpg",
+                      "width": 540,
+                      "height": 960,
+                      "user":  {
+                        "id": "11196440",
+                        "firstName": "Larry",
+                        "lastName": "Brumm",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/HE4Y40EE2P4BPJ1T.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f7893e4e4b0e8caa6e3ae73",
+          "createdAt": 1333302244,
+          "text": "Manuela is AWESOME! Will definitely be back!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f7893e4e4b0e8caa6e3ae73",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4abe650ef964a520398d20e3",
+            "name": "Denny's",
+            "contact":  {
+              "phone": "+19254630720",
+              "formattedPhone": "+1 925-463-0720",
+              "twitter": "dennysdiner",
+              "facebook": "369035133158635",
+              "facebookUsername": "DennysPleasantonOwenDr",
+              "facebookName": "Denny's"
+            },
+            "location":  {
+              "address": "6455 Owens Dr",
+              "lat": 37.69861,
+              "lng": -121.905652,
+              "postalCode": "94588",
+              "cc": "US",
+              "city": "Pleasanton",
+              "state": "CA",
+              "country": "United States",
+              "formattedAddress":  [
+                "6455 Owens Dr",
+                "Pleasanton, CA 94588",
+                "United States"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d147941735",
+                "name": "Diner",
+                "pluralName": "Diners",
+                "shortName": "Diner",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 1142,
+              "usersCount": 754,
+              "tipCount": 16
+            },
+            "url": "http://locations.dennys.com/CA/PLEASANTON/247415?utm_source=yext&utm_medium=local-listing&utm_campaign=yext-listing",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "$"
+            },
+            "hasMenu": true,
+            "rating": 5.6,
+            "ratingSignals": 30,
+            "menu":  {
+              "type": "Menu",
+              "label": "Menu",
+              "anchor": "View Menu",
+              "url": "https://foursquare.com/v/dennys/4abe650ef964a520398d20e3/menu",
+              "mobileUrl": "https://foursquare.com/v/4abe650ef964a520398d20e3/device_menu"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5394bd0c498e2dfcddd915da",
+                      "createdAt": 1402256652,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/641588_NHQTxcNLBCl7a2cH79mK9FJWcHt53VsJKKFBnxmwtn0.jpg",
+                      "width": 717,
+                      "height": 959,
+                      "user":  {
+                        "id": "641588",
+                        "firstName": "Johnny",
+                        "lastName": "Beane",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/VVXVVSGM32G2ICUO.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

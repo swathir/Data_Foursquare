@@ -1,0 +1,257 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56374369498e26be878c1aba"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 3,
+      "items":  [
+         {
+          "id": "4c933253332c3704b2928e64",
+          "createdAt": 1284715091,
+          "text": "Go to the kopitiam across the road for food round the clock!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4c933253332c3704b2928e64",
+          "likes":  {
+            "count": 4,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 4,
+                "items":  []
+              }
+            ],
+            "summary": "4 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c8f83f3ad70a1436343920f",
+            "name": "SMUBE Studio",
+            "contact":  {
+              "twitter": "smube_"
+            },
+            "location":  {
+              "address": "B1-67, Li Ka Shing Library, Singapore Management University",
+              "crossStreet": "70 Stamford Road",
+              "lat": 1.296568,
+              "lng": 103.849879,
+              "postalCode": "178901",
+              "cc": "SG",
+              "city": "Singapore",
+              "country": "Singapore",
+              "formattedAddress":  [
+                "B1-67, Li Ka Shing Library, Singapore Management University (70 Stamford Road)",
+                "178901",
+                "Singapore"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "5032856091d4c4b30a586d63",
+                "name": "Radio Station",
+                "pluralName": "Radio Stations",
+                "shortName": "Radio Station",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 167,
+              "usersCount": 21,
+              "tipCount": 2
+            },
+            "url": "http://www.smube.com"
+          }
+        },
+         {
+          "id": "4c7fa7d8e4b06dcbc6a147d7",
+          "createdAt": 1283434456,
+          "text": "Lau pa sat is just opposite, so it's pretty good to drop by!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4c7fa7d8e4b06dcbc6a147d7",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c7c5975a141b1f7e10f6b79",
+            "name": "CNBC Studio",
+            "contact":  {},
+            "location":  {
+              "lat": 1.2799665472198862,
+              "lng": 103.85054008144063,
+              "cc": "SG",
+              "country": "Singapore",
+              "formattedAddress":  [
+                "Singapore"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1f1931735",
+                "name": "General Entertainment",
+                "pluralName": "General Entertainment",
+                "shortName": "Entertainment",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 49,
+              "usersCount": 20,
+              "tipCount": 2
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4d18d79ae9032da1663504d3",
+                      "createdAt": 1293473690,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/31HYNMITKQ30GO0USNMXH2NGHUUDE0U0D3ESNUYIKBHBHSYL.jpg",
+                      "width": 540,
+                      "height": 403,
+                      "user":  {
+                        "id": "2572859",
+                        "firstName": "yangyan",
+                        "lastName": "zheng",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/11AITTHAUQEPD4MP.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4c6c1ac599b9236a4da1e1c9",
+          "createdAt": 1282153157,
+          "text": "Head across the road for a 24hr coffeeshop!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4c6c1ac599b9236a4da1e1c9",
+          "likes":  {
+            "count": 3,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 3,
+                "items":  []
+              }
+            ],
+            "summary": "3 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 1
+          },
+          "venue":  {
+            "id": "4b7bd64af964a5200c702fe3",
+            "name": "Blk 427 Jurong West Ave 1",
+            "contact":  {},
+            "location":  {
+              "isFuzzed": true,
+              "lat": 1.350667897293947,
+              "lng": 103.72312446553114,
+              "cc": "SG",
+              "city": "Jurong Town",
+              "state": "South West Community Development Council",
+              "country": "Singapore",
+              "formattedAddress":  [
+                "640427",
+                "Singapore"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d103941735",
+                "name": "Home (private)",
+                "pluralName": "Homes (private)",
+                "shortName": "Home",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/home_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 955,
+              "usersCount": 37,
+              "tipCount": 3
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "56134c67498e0a3b403feba9",
+                      "createdAt": 1444105319,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/341975_m2_95z36VI1pdsiLUBJbUDjEwn-yXoKHn1Qridh5-Aw.jpg",
+                      "width": 1080,
+                      "height": 1080,
+                      "user":  {
+                        "id": "341975",
+                        "firstName": "Serene",
+                        "lastName": "Hor",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/341975-U0PKAXK4B1OWJQ2Q.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

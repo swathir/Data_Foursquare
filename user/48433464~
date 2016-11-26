@@ -1,0 +1,484 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+35
+X-ex:
+fastly_cdn
+Content-Length:
+8212
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+479
+X-Served-By:
+cache-iad2121-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Mon, 02 Nov 2015 11:11:35 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "563744e7498ea6e70f7d9a51"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 5,
+      "items":  [
+         {
+          "id": "53c4fdc0498e4c8c579bc087",
+          "createdAt": 1405418944,
+          "text": "Брудні одноразові підставки під їжу, тарілки з плямами, які в'їлися... Наразі це не найкраще місце для обіду. Змінилися не в кращу сторону",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/53c4fdc0498e4c8c579bc087",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4d8b6618d85f3704af9113dc",
+            "name": "Піца Челентано / Celentano Pizza",
+            "contact":  {
+              "phone": "+380445992205",
+              "formattedPhone": "+380 44 599 2205"
+            },
+            "location":  {
+              "address": "просп. Перемоги, 28а",
+              "crossStreet": "Брест-Литовский Переулок",
+              "lat": 50.4515730520025,
+              "lng": 30.46605885028839,
+              "cc": "UA",
+              "city": "Київ",
+              "state": "м. Київ",
+              "country": "Україна",
+              "formattedAddress":  [
+                "просп. Перемоги, 28а (Брест-Литовский Переулок)",
+                "Київ",
+                "Україна"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1ca941735",
+                "name": "Pizza Place",
+                "pluralName": "Pizza Places",
+                "shortName": "Pizza",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 8734,
+              "usersCount": 3983,
+              "tipCount": 136
+            },
+            "url": "http://www.pizza-celentano.kiev.ua",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "$"
+            },
+            "rating": 6.6,
+            "ratingSignals": 572,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50ac845de4b0d827bc72d19e",
+                      "createdAt": 1353483357,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/21493006_2t3JY2bD6h7_oNlDrUwDGH1LWELwUMz7re4fTCRm4A8.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "21493006",
+                        "firstName": "Oleksandr",
+                        "lastName": "Kunytsia",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/N4RMWFYNO0ZKGCS1.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            },
+            "storeId": "Pobedy"
+          }
+        },
+         {
+          "id": "51ec00ba498e00c8e3aa5229",
+          "createdAt": 1374421178,
+          "text": "Консультанти телефоном дають невірну інформацію щодо наявності товару та деяких особливостей покупки,як наслідок - даремно витрачений час на дорогу, відкладення термінової покупки і зіпсований настрій",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51ec00ba498e00c8e3aa5229",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "18693522",
+                    "firstName": "Venus",
+                    "lastName": "∞",
+                    "gender": "female",
+                    "photo":  {
+                      "prefix": "https://irs3.4sqi.net/img/user/",
+                      "suffix": "/18693522-R35A53SVXIRSSTJN.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "50b75919e4b037d8eea64614",
+            "name": "FotoMag",
+            "contact":  {
+              "phone": "+380443640044",
+              "formattedPhone": "+380 44 364 0044"
+            },
+            "location":  {
+              "address": "просп. Московский, 6",
+              "lat": 50.488907452454285,
+              "lng": 30.495616908125022,
+              "cc": "UA",
+              "city": "Київ",
+              "state": "м. Київ",
+              "country": "Україна",
+              "formattedAddress":  [
+                "просп. Московский, 6",
+                "Київ",
+                "Україна"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d122951735",
+                "name": "Electronics Store",
+                "pluralName": "Electronics Stores",
+                "shortName": "Electronics",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 314,
+              "usersCount": 163,
+              "tipCount": 17
+            },
+            "rating": 5.2,
+            "ratingSignals": 31,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51c07b19498e2c58e5d44a69",
+                      "createdAt": 1371568921,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/57612654_HE00lV3wUNfduoOQvJ3fHXzPGAecbhAXJmclMqJ5mh8.jpg",
+                      "width": 960,
+                      "height": 960,
+                      "user":  {
+                        "id": "57612654",
+                        "firstName": "Vladislav",
+                        "lastName": "Meteletskyy",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/JI2BCAFFAROGK31C.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "51eacbea498e84dd49e40010",
+          "createdAt": 1374342122,
+          "text": "Любиш дивитись 3D - люби і окуляри перед фільмом протирати...",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51eacbea498e84dd49e40010",
+          "likes":  {
+            "count": 13,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 13,
+                "items":  []
+              }
+            ],
+            "summary": "13 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c1e1b988b3aa5934f869b5f",
+            "name": "ТРЦ «Блокбастер» / Blockbuster",
+            "contact":  {
+              "phone": "+380444983000",
+              "formattedPhone": "+380 44 498 3000"
+            },
+            "location":  {
+              "address": "просп. Московський, 34в",
+              "lat": 50.485978702430735,
+              "lng": 30.518882274627682,
+              "postalCode": "04655",
+              "cc": "UA",
+              "city": "Київ",
+              "state": "м. Київ",
+              "country": "Україна",
+              "formattedAddress":  [
+                "просп. Московський, 34в",
+                "Київ, 04655",
+                "Україна"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1fd941735",
+                "name": "Mall",
+                "pluralName": "Malls",
+                "shortName": "Mall",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 64434,
+              "usersCount": 22140,
+              "tipCount": 245
+            },
+            "url": "http://blockbuster.ua",
+            "rating": 8.3,
+            "ratingSignals": 2484,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50e4149be4b05f3ea58a9446",
+                      "createdAt": 1357124763,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/43263481_Jl-wLaoWVYOzKe2Dy7VYe8dtzxqwgjhEb8uIkmajJTA.jpg",
+                      "width": 959,
+                      "height": 717,
+                      "user":  {
+                        "id": "43263481",
+                        "firstName": "Юрий",
+                        "lastName": "Валерьевич",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/4R4FIPBGFYMZMEY4.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "512c769be4b02d80dfca5c2c",
+          "createdAt": 1361868443,
+          "text": "Не можу сказати, що тут найкращі суші, проте сюди можна дістати знижку на все меню 50%, а це дуже радує)))",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/512c769be4b02d80dfca5c2c",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "46208313",
+                    "firstName": "Eugene",
+                    "lastName": "Ganchev",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/DQVQ5O4DAID5YZBE.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c2cc9328abca593043a0220",
+            "name": "Изуми / Izumi",
+            "contact":  {
+              "phone": "+380442794950",
+              "formattedPhone": "+380 44 279 4950",
+              "twitter": "izumiua",
+              "facebook": "1428857854020382",
+              "facebookUsername": "izumicomua",
+              "facebookName": "Изуми, суши-студия"
+            },
+            "location":  {
+              "address": "вул. Михайлівська, 24А",
+              "lat": 50.45435079839921,
+              "lng": 30.521239846758704,
+              "cc": "UA",
+              "city": "Київ",
+              "state": "м. Київ",
+              "country": "Україна",
+              "formattedAddress":  [
+                "вул. Михайлівська, 24А",
+                "Київ",
+                "Україна"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1d2941735",
+                "name": "Sushi Restaurant",
+                "pluralName": "Sushi Restaurants",
+                "shortName": "Sushi",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 2003,
+              "usersCount": 1402,
+              "tipCount": 96
+            },
+            "url": "http://izumi.com.ua",
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "$"
+            },
+            "rating": 5.7,
+            "ratingSignals": 197,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fca5dd2e4b026db02be84b0",
+                      "createdAt": 1338662354,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/uBS0y3-f6Xk7KMDEDOrKP7S_4_9rUIHUSaHcV3dhOfo.jpg",
+                      "width": 537,
+                      "height": 720,
+                      "user":  {
+                        "id": "15126478",
+                        "firstName": "Max",
+                        "lastName": "Ponomarchuk",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/OXNAH3EFUOKIK02O.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            },
+            "storeId": ""
+          }
+        }
+      ]
+    }
+  }
+}

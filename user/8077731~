@@ -1,0 +1,754 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+38
+X-ex:
+fastly_cdn
+Content-Length:
+11608
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+487
+X-Served-By:
+cache-iad2133-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Mon, 02 Nov 2015 09:52:59 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "5637327b498ed557e6c30a8a"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 9,
+      "items":  [
+         {
+          "id": "554d0b4c498e9902198adec6",
+          "createdAt": 1431112524,
+          "text": "The vegetarian lettuce wrap is awesome!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/554d0b4c498e9902198adec6",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b05d2cdf964a520f5e322e3",
+            "name": "Northstar Cafe",
+            "contact":  {
+              "phone": "+16147842233",
+              "formattedPhone": "+1 614-784-2233"
+            },
+            "location":  {
+              "address": "4241 N High St",
+              "lat": 40.04852170424078,
+              "lng": -83.02051501996492,
+              "postalCode": "43214",
+              "cc": "US",
+              "city": "Columbus",
+              "state": "OH",
+              "country": "United States",
+              "formattedAddress":  [
+                "4241 N High St",
+                "Columbus, OH 43214",
+                "United States"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16d941735",
+                "name": "Café",
+                "pluralName": "Cafés",
+                "shortName": "Café",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 6916,
+              "usersCount": 2688,
+              "tipCount": 89
+            },
+            "url": "http://thenorthstarcafe.com",
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "$"
+            },
+            "hasMenu": true,
+            "rating": 9.4,
+            "ratingSignals": 244,
+            "menu":  {
+              "type": "Menu",
+              "label": "Menu",
+              "anchor": "View Menu",
+              "url": "https://foursquare.com/v/northstar-cafe/4b05d2cdf964a520f5e322e3/menu",
+              "mobileUrl": "https://foursquare.com/v/4b05d2cdf964a520f5e322e3/device_menu"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5181ae68498ea4acff1dda70",
+                      "createdAt": 1367453288,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/3556625_mEtlbutVBiBb5Rn50qB_UQn7P50oKmPY8laMtDaKjRg.jpg",
+                      "width": 1920,
+                      "height": 1440,
+                      "user":  {
+                        "id": "3556625",
+                        "firstName": "Daniel",
+                        "lastName": "Colin",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/3556625-KVMOQDNGYIY4NLWH.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "53568dab498ebd54f5016082",
+          "createdAt": 1398181291,
+          "text": "If you are planning for bungee jumping, better to register a day earlier or reach no later than 9:30AM",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/53568dab498ebd54f5016082",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "52a996a4498e4aebd3dc4c06",
+            "name": "Shivpuri",
+            "contact":  {},
+            "location":  {
+              "lat": 30.111476998744582,
+              "lng": 78.42622331577392,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1e4941735",
+                "name": "Campground",
+                "pluralName": "Campgrounds",
+                "shortName": "Campground",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/campground_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 13,
+              "usersCount": 13,
+              "tipCount": 2
+            }
+          }
+        },
+         {
+          "id": "53568d87498ebd54f5016025",
+          "createdAt": 1398181255,
+          "text": "Prefer the camps on the river banks to the forest ones.",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/53568d87498ebd54f5016025",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "52a996a4498e4aebd3dc4c06",
+            "name": "Shivpuri",
+            "contact":  {},
+            "location":  {
+              "lat": 30.111476998744582,
+              "lng": 78.42622331577392,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1e4941735",
+                "name": "Campground",
+                "pluralName": "Campgrounds",
+                "shortName": "Campground",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/campground_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 13,
+              "usersCount": 13,
+              "tipCount": 2
+            }
+          }
+        },
+         {
+          "id": "5298456411d2386cc322a369",
+          "createdAt": 1385710948,
+          "text": "check out groupon for offer",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5298456411d2386cc322a369",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "527e680a11d23460f88bfbee",
+            "name": "Cafe Gartino",
+            "contact":  {},
+            "location":  {
+              "address": "Sector 29",
+              "lat": 28.469600677490234,
+              "lng": 77.06270599365234,
+              "cc": "IN",
+              "city": "Gurgaon",
+              "state": "Haryāna",
+              "country": "India",
+              "formattedAddress":  [
+                "Sector 29",
+                "Gurgaon",
+                "Haryāna"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16d941735",
+                "name": "Café",
+                "pluralName": "Cafés",
+                "shortName": "Café",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 69,
+              "usersCount": 59,
+              "tipCount": 4
+            },
+            "url": "http://gartino.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 6,
+            "ratingSignals": 8,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "52d97694498e95d94deecf15",
+                      "createdAt": 1389983380,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/59873558_nNrvyjQblP33eT1Ndntbjd5LWwAEDXSVJ104GCYHBQI.jpg",
+                      "width": 785,
+                      "height": 960,
+                      "user":  {
+                        "id": "59873558",
+                        "firstName": "Mohit",
+                        "lastName": "Singh",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/59873558-ICWQ41HKMJZZ2RHD.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "526bcd0d11d24647b2bee23c",
+          "createdAt": 1382796557,
+          "text": "cold coffee is awesome.",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/526bcd0d11d24647b2bee23c",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "50a99d6fe4b0354e5cfbea1f",
+            "name": "Jewar Toll Plaza Canteen",
+            "contact":  {},
+            "location":  {
+              "address": "Yamuna Highway",
+              "lat": 28.118891514617186,
+              "lng": 77.5747732203784,
+              "cc": "IN",
+              "city": "Jewar, Uttar Pradesh",
+              "state": "Uttar Pradesh",
+              "country": "India",
+              "formattedAddress":  [
+                "Yamuna Highway",
+                "Jewar, Uttar Pradesh",
+                "Uttar Pradesh"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16e941735",
+                "name": "Fast Food Restaurant",
+                "pluralName": "Fast Food Restaurants",
+                "shortName": "Fast Food",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 64,
+              "usersCount": 52,
+              "tipCount": 2
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "55076c30498e05e5802b58f2",
+                      "createdAt": 1426549808,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/37872072_R2hN3_kF2Qwk2M8Xcd--Mu-FSVaWOJQ9aVeKScIA77A.jpg",
+                      "width": 1920,
+                      "height": 1440,
+                      "user":  {
+                        "id": "37872072",
+                        "firstName": "JK",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/G213UFGLGRT0WIEO.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f73e772e4b0f112e0e6056b",
+          "createdAt": 1332995954,
+          "text": "10 AM is a good time for a complete sun tan :-)",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f73e772e4b0f112e0e6056b",
+          "likes":  {
+            "count": 4,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 4,
+                "items":  [
+                   {
+                    "id": "14047166",
+                    "firstName": "Swaroop",
+                    "lastName": "Krothapalli",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs3.4sqi.net/img/user/",
+                      "suffix": "/14047166-CYRCSNRZPMOPQHZS.jpg"
+                    }
+                  },
+                   {
+                    "id": "151030",
+                    "firstName": "Sameer",
+                    "lastName": "Panchangam",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs0.4sqi.net/img/user/",
+                      "suffix": "/151030-I10XRIDPABMGJ0TX.jpg"
+                    }
+                  },
+                   {
+                    "id": "34372149",
+                    "firstName": "Nakul",
+                    "lastName": "Sharma",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/31VL5VJHA0QVOYTN.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "4 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4e6f5d29d4c06eaf9c24d41b",
+            "name": "Azeeziya Pent House",
+            "contact":  {},
+            "location":  {
+              "lat": 12.906183318199052,
+              "lng": 77.62959699390186,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1fe931735",
+                "name": "Bus Station",
+                "pluralName": "Bus Stations",
+                "shortName": "Bus Station",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 952,
+              "usersCount": 257,
+              "tipCount": 9
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4f5deb90e4b075ad7bc7f97d",
+                      "createdAt": 1331555216,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/s9zD6hETZDfeD5T6Z9qkOpEZYI9yreOkp2NpNNbT2Zg.jpg",
+                      "width": 720,
+                      "height": 542,
+                      "user":  {
+                        "id": "8077731",
+                        "firstName": "subheet",
+                        "lastName": "sood",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/MQY1K3YWNYR3LJ40.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f65e116e4b0272f2d55da59",
+          "createdAt": 1332076822,
+          "text": "beware of the chor aunty! buy stationery from better place :D",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f65e116e4b0272f2d55da59",
+          "likes":  {
+            "count": 3,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 3,
+                "items":  [
+                   {
+                    "id": "27486844",
+                    "firstName": "Geetansh",
+                    "lastName": "Gupta",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs1.4sqi.net/img/user/",
+                      "suffix": "/CZ3GNKDN3ZA5434L.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "3 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c9dad8a7ada199cda8e94bc",
+            "name": "BITS Pilani, KK Birla Goa Campus",
+            "contact":  {},
+            "location":  {
+              "address": "Zuari Nagar",
+              "crossStreet": "NH17B",
+              "lat": 15.389721950418007,
+              "lng": 73.87730598449707,
+              "postalCode": "403726",
+              "cc": "IN",
+              "city": "Sancoale",
+              "state": "Goa",
+              "country": "India",
+              "formattedAddress":  [
+                "Zuari Nagar (NH17B)",
+                "Sancoale 403726",
+                "Goa"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1ae941735",
+                "name": "University",
+                "pluralName": "Universities",
+                "shortName": "University",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 509,
+              "usersCount": 257,
+              "tipCount": 6
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51626e9be4b08c5cffcd0478",
+                      "createdAt": 1365405339,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/4116824___824yT5HkViYwuCrWSvjP98jbaQE1uP5HAh67i9HUM.jpg",
+                      "width": 612,
+                      "height": 612,
+                      "user":  {
+                        "id": "4116824",
+                        "firstName": "Rahul",
+                        "lastName": "Singh",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/YGALLNP3Y55KPQ4Z.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f4d0d3de4b0ed3692ece1fd",
+          "createdAt": 1330449725,
+          "text": "Take enough cash! no ATMs around the beach and none of the restaurants seem to accept cards",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f4d0d3de4b0ed3692ece1fd",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b5972b5f964a5208a8828e3",
+            "name": "Palolem Beach",
+            "contact":  {
+              "twitter": "tourismgoa"
+            },
+            "location":  {
+              "address": "Palolem Beach",
+              "lat": 15.01114850273253,
+              "lng": 74.02273379303713,
+              "cc": "IN",
+              "city": "Palolem",
+              "state": "Goa",
+              "country": "India",
+              "formattedAddress":  [
+                "Palolem Beach",
+                "Palolem",
+                "Goa"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1e2941735",
+                "name": "Beach",
+                "pluralName": "Beaches",
+                "shortName": "Beach",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 3459,
+              "usersCount": 2276,
+              "tipCount": 54
+            },
+            "rating": 9.2,
+            "ratingSignals": 178,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5136e35ae4b00eba53f3bf7b",
+                      "createdAt": 1362551642,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/20913969_BP1wKfSZ6TUx6XjU7M2EJtlHzS6k1xuy8xqXJQBRFyE.jpg",
+                      "width": 720,
+                      "height": 720,
+                      "user":  {
+                        "id": "20913969",
+                        "firstName": "Алексей",
+                        "lastName": "Василенко",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/20913969-L4CUOCIUJ0YLLDTJ.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

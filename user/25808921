@@ -1,0 +1,254 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56387f2e498ede79749ed81e"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 2,
+      "items":  [
+         {
+          "id": "5170f10ee4b056d3cbeda510",
+          "createdAt": 1366356238,
+          "text": "Nice place",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5170f10ee4b056d3cbeda510",
+          "likes":  {
+            "count": 2,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 2,
+                "items":  [
+                   {
+                    "id": "42477328",
+                    "firstName": "Neelesh",
+                    "lastName": "Vishwakarma",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs0.4sqi.net/img/user/",
+                      "suffix": "/42477328-LOMVIMFU2TXBXJKA.jpg"
+                    }
+                  },
+                   {
+                    "id": "50640583",
+                    "firstName": "Meetu",
+                    "lastName": "Choudhary",
+                    "gender": "female",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/2FXMJNIWK1NQCXPR.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "2 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4ce7ab41948f224b4786eb5d",
+            "name": "Costa Coffee",
+            "contact":  {},
+            "location":  {
+              "address": "Ambience Mall",
+              "lat": 28.504104640387702,
+              "lng": 77.09698576001362,
+              "cc": "IN",
+              "city": "Gurgaon",
+              "state": "Haryāna",
+              "country": "India",
+              "formattedAddress":  [
+                "Ambience Mall",
+                "Gurgaon",
+                "Haryāna"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16d941735",
+                "name": "Café",
+                "pluralName": "Cafés",
+                "shortName": "Café",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 446,
+              "usersCount": 227,
+              "tipCount": 4
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 7,
+            "ratingSignals": 13,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fc25177e4b0d51625629696",
+                      "createdAt": 1338134903,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/Zw0gYQc8FAFFFZcPClusxH6g0niFVY5ar7yPyUcME6s.jpg",
+                      "width": 540,
+                      "height": 720,
+                      "user":  {
+                        "id": "7656476",
+                        "firstName": "Saurabh",
+                        "lastName": "Sachan",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/1AP2GXLVOLTDVA35.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "5121cc08e4b00c9530efccb6",
+          "createdAt": 1361169416,
+          "text": "Love working from here",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5121cc08e4b00c9530efccb6",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "23757409",
+                    "firstName": "Shivani",
+                    "lastName": "Singh",
+                    "gender": "female",
+                    "photo":  {
+                      "prefix": "https://irs0.4sqi.net/img/user/",
+                      "suffix": "/23757409-3DGUPAH1T3NKD03W.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4e210977d4c0d32590eb71fc",
+            "name": "Costa Coffee",
+            "contact":  {},
+            "location":  {
+              "address": "Ninex City Mart",
+              "crossStreet": "Sohna Road",
+              "lat": 28.416403632286684,
+              "lng": 77.04143841175174,
+              "cc": "IN",
+              "city": "Gurgaon",
+              "state": "Haryāna",
+              "country": "India",
+              "formattedAddress":  [
+                "Ninex City Mart (Sohna Road)",
+                "Gurgaon",
+                "Haryāna"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16d941735",
+                "name": "Café",
+                "pluralName": "Cafés",
+                "shortName": "Café",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 551,
+              "usersCount": 216,
+              "tipCount": 8
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 6.1,
+            "ratingSignals": 28,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50dc3a79e4b0e4c046d41c7d",
+                      "createdAt": 1356610169,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/25808921_JwXQi1jQlWxI-lLVQpgcY7o3a4PQfJdgFs6Hp8qTYGc.jpg",
+                      "width": 540,
+                      "height": 720,
+                      "user":  {
+                        "id": "25808921",
+                        "firstName": "Dhananjay",
+                        "lastName": "Kumar",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/PLRSUANYLB4XAGJQ.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

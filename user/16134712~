@@ -1,0 +1,1124 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+68
+X-ex:
+fastly_cdn
+Content-Length:
+18101
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+472
+X-Served-By:
+cache-iad2132-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Mon, 02 Nov 2015 10:17:00 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "5637381c498eb97e03458def"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 12,
+      "items":  [
+         {
+          "id": "536b2ff9498e55c122fba3f6",
+          "createdAt": 1399533561,
+          "text": "Sholay kabab is a must..",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/536b2ff9498e55c122fba3f6",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4ec365ab8b8132e083115de0",
+            "name": "Cauvery Hyderabadi Biryani",
+            "contact":  {},
+            "location":  {
+              "address": "Outer Ring Rd, Bengaluru, Karnataka",
+              "lat": 12.937551789668719,
+              "lng": 77.69321678478796,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Outer Ring Rd, Bengaluru, Karnataka",
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 24,
+              "usersCount": 10,
+              "tipCount": 1
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true
+          }
+        },
+         {
+          "id": "5310a321498e8927d12d9570",
+          "createdAt": 1393599265,
+          "text": "Quality of service is not good.. Food is okay for the price it's offered at..",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5310a321498e8927d12d9570",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "50edfb23e4b0ba219415e028",
+            "name": "Spree Hotel",
+            "contact":  {},
+            "location":  {
+              "lat": 12.979874174638566,
+              "lng": 77.69136060147981,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d142941735",
+                "name": "Asian Restaurant",
+                "pluralName": "Asian Restaurants",
+                "shortName": "Asian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 39,
+              "usersCount": 22,
+              "tipCount": 3
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true
+          }
+        },
+         {
+          "id": "528720cd11d2a52abfe8fa8b",
+          "createdAt": 1384587469,
+          "text": "Awesome pork spare ribs.. Don't forget to try the spare ribs with barbeque sauce",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/528720cd11d2a52abfe8fa8b",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "514acc7fe4b004a36e9368c7",
+            "name": "The Naga Kitchen",
+            "contact":  {},
+            "location":  {
+              "address": "Koramangala 6th Block",
+              "crossStreet": "6th Cross Road",
+              "lat": 12.936969402583912,
+              "lng": 77.62470769357252,
+              "postalCode": "560095",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Koramangala 6th Block (6th Cross Road)",
+                "Bangalore 560095",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d142941735",
+                "name": "Asian Restaurant",
+                "pluralName": "Asian Restaurants",
+                "shortName": "Asian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 164,
+              "usersCount": 95,
+              "tipCount": 10
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "rating": 6.6,
+            "ratingSignals": 23,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5200aab3498e5f88a38da84c",
+                      "createdAt": 1375775411,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/8782130_kj3ubIz3Lv1gHuMew62tQwAppkQfysm9WWWMMf90wKw.jpg",
+                      "width": 720,
+                      "height": 960,
+                      "user":  {
+                        "id": "8782130",
+                        "firstName": "Sunil",
+                        "lastName": "Kashikar",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/JUXBFAXRLIZMIJVW.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "524b08a211d2a2c98bb77c4d",
+          "createdAt": 1380649122,
+          "text": "Good and tasty food.. Service is a bit slow but otherwise a good place to have food",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/524b08a211d2a2c98bb77c4d",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4d3af0cc81258cfa19c8ab5f",
+            "name": "Chandu Dhaba",
+            "contact":  {},
+            "location":  {
+              "lat": 13.0835607337715,
+              "lng": 77.41547314007323,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 48,
+              "usersCount": 22,
+              "tipCount": 1
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true
+          }
+        },
+         {
+          "id": "517d14bde4b0a2c6716144cd",
+          "createdAt": 1367151805,
+          "text": "The best place to watch a 3D movie in Bangalore.. The Best..",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/517d14bde4b0a2c6716144cd",
+          "likes":  {
+            "count": 3,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 3,
+                "items":  [
+                   {
+                    "id": "80296820",
+                    "firstName": "Navin",
+                    "lastName": "Kallolli",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs1.4sqi.net/img/user/",
+                      "suffix": "/80296820-2WTFJHXILI0ONFES.jpg"
+                    }
+                  },
+                   {
+                    "id": "32556638",
+                    "firstName": "Sandeep",
+                    "lastName": "S",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/TEFUNQOYU5OXLVBM.jpg"
+                    }
+                  },
+                   {
+                    "id": "30277189",
+                    "firstName": "Swetank",
+                    "lastName": "Sherlekar",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs3.4sqi.net/img/user/",
+                      "suffix": "/4CC420YXN4JDC3YD.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "3 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 1
+          },
+          "venue":  {
+            "id": "4c541506f5f3d13ad4f58df9",
+            "name": "Urvashi Cinemas",
+            "contact":  {
+              "phone": "08022245551",
+              "formattedPhone": "080 2224 5551"
+            },
+            "location":  {
+              "address": "Lalbagh Main Road",
+              "crossStreet": "Doddamavalli, Sudhama Nagar",
+              "lat": 12.955880713641996,
+              "lng": 77.58543848991394,
+              "postalCode": "560027",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Lalbagh Main Road (Doddamavalli, Sudhama Nagar)",
+                "Bangalore 560027",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d17f941735",
+                "name": "Movie Theater",
+                "pluralName": "Movie Theaters",
+                "shortName": "Movie Theater",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 2953,
+              "usersCount": 1416,
+              "tipCount": 67
+            },
+            "rating": 7.7,
+            "ratingSignals": 210,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5052ba01e4b07ba3e55d3f14",
+                      "createdAt": 1347598849,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/24366308_myRbEIHZImf1do-BD_-xEFh-tA68YRLV1X7U8SMm2GE.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "24366308",
+                        "firstName": "ishrenik",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/24366308-GCXEGFNP0DBB4FKM.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "51756dade4b00c3025fa62d9",
+          "createdAt": 1366650285,
+          "text": "Tender Coconut and Malai are the best they offer",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51756dade4b00c3025fa62d9",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "943773",
+                    "firstName": "Soumya",
+                    "lastName": "Honnahalli",
+                    "gender": "female",
+                    "photo":  {
+                      "prefix": "https://irs3.4sqi.net/img/user/",
+                      "suffix": "/IN1Y0WYH25ASCEMW.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4cbd71c2bac93704b3f2fd7c",
+            "name": "Natural Ice Cream",
+            "contact":  {
+              "phone": "08042192049",
+              "formattedPhone": "080 4219 2049",
+              "twitter": "naturalicecream",
+              "facebook": "155199366606",
+              "facebookUsername": "Naturalicecream",
+              "facebookName": "Natural Ice Cream"
+            },
+            "location":  {
+              "address": "Panduranganagar",
+              "crossStreet": "Bannerghatta Rd",
+              "lat": 12.892280966874432,
+              "lng": 77.59825944900513,
+              "postalCode": "560076",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Panduranganagar (Bannerghatta Rd)",
+                "Bangalore 560076",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1c9941735",
+                "name": "Ice Cream Shop",
+                "pluralName": "Ice Cream Shops",
+                "shortName": "Ice Cream",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 509,
+              "usersCount": 243,
+              "tipCount": 23
+            },
+            "url": "http://naturalicecreams.in",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 8.1,
+            "ratingSignals": 46,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5222fbc011d276aba74a4451",
+                      "createdAt": 1378024384,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/2581165_WE-baawA036y2fTimFre7538jG9i1vjRXQ01gwIcjBQ.jpg",
+                      "width": 717,
+                      "height": 959,
+                      "user":  {
+                        "id": "2581165",
+                        "firstName": "Vasundhar",
+                        "lastName": "Boddapati",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/30XUVWSDPHWKQ5H3.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "514fccf0e4b08621bac09bfb",
+          "createdAt": 1364184304,
+          "text": "Awesome breakfast combos.. Don't forget to try the hot cake with maple syrup and butter",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/514fccf0e4b08621bac09bfb",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4be52737cf200f4719ef123c",
+            "name": "McDonald's",
+            "contact":  {},
+            "location":  {
+              "address": "Bangalore Central",
+              "crossStreet": "Jayanagar",
+              "lat": 12.916438648133303,
+              "lng": 77.59227275848389,
+              "postalCode": "560011",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Bangalore Central (Jayanagar)",
+                "Bangalore 560011",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16c941735",
+                "name": "Burger Joint",
+                "pluralName": "Burger Joints",
+                "shortName": "Burgers",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 2070,
+              "usersCount": 992,
+              "tipCount": 31
+            },
+            "url": "http://www.mcdonaldsindia.net",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 7.3,
+            "ratingSignals": 78,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fcac875e4b00865cc733e6e",
+                      "createdAt": 1338689653,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/mEdwnaeI5set8pPL2p1wLNkdSmGpXKH-MShO1L7DtXw.jpg",
+                      "width": 540,
+                      "height": 720,
+                      "user":  {
+                        "id": "20003874",
+                        "firstName": "Steiner",
+                        "lastName": "Leon",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/XQDZ5NBCMRBL0NOH.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f5c5fd4e4b05cd76a345f36",
+          "createdAt": 1331453908,
+          "text": "Very pathetic place.. A/c doesnt work.. Nothing on the food + liquor menu..!!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f5c5fd4e4b05cd76a345f36",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4bdda4e30ee3a593e3102eb0",
+            "name": "B52",
+            "contact":  {},
+            "location":  {
+              "lat": 12.937942999615446,
+              "lng": 77.62737054253539,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d121941735",
+                "name": "Lounge",
+                "pluralName": "Lounges",
+                "shortName": "Lounge",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 66,
+              "usersCount": 36,
+              "tipCount": 1
+            },
+            "price":  {
+              "tier": 3,
+              "message": "Expensive",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true
+          }
+        },
+         {
+          "id": "4f4fb2eee4b093635bd394c6",
+          "createdAt": 1330623214,
+          "text": "Bad place.. good if you are going here on a snapdeal offer.. but otherwise it's bad.. The pool is very small & water too is bad..",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f4fb2eee4b093635bd394c6",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4dd7562d8877f1150fe7e66c",
+            "name": "Mango Mist",
+            "contact":  {},
+            "location":  {
+              "lat": 12.785284192948223,
+              "lng": 77.62195527083719,
+              "cc": "IN",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d12f951735",
+                "name": "Resort",
+                "pluralName": "Resorts",
+                "shortName": "Resort",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/resort_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 337,
+              "usersCount": 295,
+              "tipCount": 9
+            },
+            "rating": 6.1,
+            "ratingSignals": 14,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5297774c498eee0bb9dfae9a",
+                      "createdAt": 1385658188,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/2910719_ut18TGmZQXgzpajqMHCaWVFUSMS-w40KpgYnVw4AQsg.jpg",
+                      "width": 720,
+                      "height": 960,
+                      "user":  {
+                        "id": "2910719",
+                        "firstName": "Utkarsh",
+                        "lastName": "Singh Rathore",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/2GQMLOCRF0G1VLRQ.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f470437e4b0cf7a04aba4ca",
+          "createdAt": 1330054199,
+          "text": "Wonderful hangout place.. the Ginger Tea here is really one of it's kind..",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f470437e4b0cf7a04aba4ca",
+          "likes":  {
+            "count": 4,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 4,
+                "items":  [
+                   {
+                    "id": "101330548",
+                    "firstName": "Shariq",
+                    "lastName": "Samira",
+                    "gender": "female",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/blank_girl.png",
+                      "default": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "4 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c28383497d00f4725993fea",
+            "name": "Ginger Tea House",
+            "contact":  {},
+            "location":  {
+              "address": "Sri Devi Bakery",
+              "crossStreet": "7th main, opp. state bank to travancore, BTM l",
+              "lat": 12.912534052881824,
+              "lng": 77.60632336641537,
+              "postalCode": "560004",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Sri Devi Bakery (7th main, opp. state bank to travancore, BTM l)",
+                "Bangalore 560004",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16a941735",
+                "name": "Bakery",
+                "pluralName": "Bakeries",
+                "shortName": "Bakery",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1946,
+              "usersCount": 300,
+              "tipCount": 31
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 8.7,
+            "ratingSignals": 66,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51740559e4b00ac5052527d5",
+                      "createdAt": 1366558041,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/16134712_LKwI_nlR7kd5UHeBnBXQDS9RfY751yiTnNGc_PpJZ6I.jpg",
+                      "width": 960,
+                      "height": 540,
+                      "user":  {
+                        "id": "16134712",
+                        "firstName": "Bharath",
+                        "lastName": "Gadiyar",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/16134712-R4A0LNHKP4TLD0KL.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f463e10e4b01fefa0c4d59f",
+          "createdAt": 1330003472,
+          "text": "Amazing place to live in. like a 5-star jail. Visitors will have to face some problem with parking.",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f463e10e4b01fefa0c4d59f",
+          "likes":  {
+            "count": 2,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 2,
+                "items":  [
+                   {
+                    "id": "47297932",
+                    "firstName": "Vinayak",
+                    "lastName": "Majagaonkar",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs3.4sqi.net/img/user/",
+                      "suffix": "/D2ABBFBHH20C3Q55.jpg"
+                    }
+                  },
+                   {
+                    "id": "6567208",
+                    "firstName": "Dheeraj",
+                    "lastName": "Nagwani",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/5NRWXJOEWJI5PT2P.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "2 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c0a10c97e3fc9284a0af382",
+            "name": "Raheja Residency",
+            "contact":  {},
+            "location":  {
+              "address": "Koramangala",
+              "lat": 12.92805018046381,
+              "lng": 77.63119128500318,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Koramangala",
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d130941735",
+                "name": "Building",
+                "pluralName": "Buildings",
+                "shortName": "Building",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 2481,
+              "usersCount": 246,
+              "tipCount": 8
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50a159a3e4b0c4d83db095af",
+                      "createdAt": 1352751523,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/31611902_VPCJ2yJr_uYAzcuGeHEsPhgavj0iW5sOz2ehnBz0Bpc.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "31611902",
+                        "firstName": "Pramod",
+                        "lastName": "Nair",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/Y11W3VUY5GXYKTKE.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f45ee62e4b0f8695dfc47d7",
+          "createdAt": 1329983074,
+          "text": "Amazing hang out place.. Dont forget to try the idli machurian :)",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f45ee62e4b0f8695dfc47d7",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c00b24b8c1076b0a19e2071",
+            "name": "Juice Junction",
+            "contact":  {
+              "phone": "09900925744",
+              "formattedPhone": "099 00 925744"
+            },
+            "location":  {
+              "address": "#2628",
+              "crossStreet": "27th Main Rd, 1st Sector, HSR Layout",
+              "lat": 12.913510568660884,
+              "lng": 77.65175342559814,
+              "postalCode": "560102",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "#2628 (27th Main Rd, 1st Sector, HSR Layout)",
+                "Bangalore 560102",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1c7941735",
+                "name": "Snack Place",
+                "pluralName": "Snack Places",
+                "shortName": "Snacks",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/snacks_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1514,
+              "usersCount": 224,
+              "tipCount": 21
+            },
+            "url": "http://juicejunction.in",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 7.8,
+            "ratingSignals": 39,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fdd6cbae4b0503efca8c143",
+                      "createdAt": 1339911354,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/efa5Hhj08cHJ-f7LdYZh_UnwBGBamPzL9y0QC_n6-aM.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "12511671",
+                        "firstName": "Pallav",
+                        "lastName": "Agrawal",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/A4OO2U1JDSYOUYNH.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

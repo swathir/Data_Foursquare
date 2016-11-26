@@ -1,0 +1,455 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+34
+X-ex:
+fastly_cdn
+Content-Length:
+6738
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+494
+X-Served-By:
+cache-iad2144-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Tue, 03 Nov 2015 09:14:10 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56387ae2498edf5fcf6ce2db"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 5,
+      "items":  [
+         {
+          "id": "539eeb95498eedc986fb577d",
+          "createdAt": 1402923925,
+          "text": "All fighters are welcome here",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/539eeb95498eedc986fb577d",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4dcb94f945dd38312287ab7b",
+            "name": "Axis Bank Borivali West",
+            "contact":  {},
+            "location":  {
+              "address": "chamunda circle",
+              "lat": 19.23096354067276,
+              "lng": 72.85467207010994,
+              "cc": "IN",
+              "city": "Mumbai",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "chamunda circle",
+                "Mumbai",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10a951735",
+                "name": "Bank",
+                "pluralName": "Banks",
+                "shortName": "Bank",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 46,
+              "usersCount": 28,
+              "tipCount": 2
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4e351adae4cd9aba7cc136ec",
+                      "createdAt": 1312103130,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/1JKRGV0G5N2YN4FYBAGIUGO3ABVF3NFW240MMEOYAASWDKJJ.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "11918904",
+                        "firstName": "Rush",
+                        "lastName": "King",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/OY45OFYMCYHRLUCC.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "534d7ddb11d21c8aa7882444",
+          "createdAt": 1397587419,
+          "text": "Speeding reaches 125kmph",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/534d7ddb11d21c8aa7882444",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "5161c3ade4b063acf3d29399",
+            "name": "Dahisar Link Road Flyover",
+            "contact":  {},
+            "location":  {
+              "address": "Dahisar Bridge",
+              "lat": 19.259870484023846,
+              "lng": 72.85661635347883,
+              "cc": "IN",
+              "city": "Dahisar",
+              "country": "India",
+              "formattedAddress":  [
+                "Dahisar Bridge",
+                "Dahisar"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1f9931735",
+                "name": "Road",
+                "pluralName": "Roads",
+                "shortName": "Road",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/highway_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 16,
+              "usersCount": 8,
+              "tipCount": 2
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5184f106498ea34fb7eb9107",
+                      "createdAt": 1367666950,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/1738504_CjC1iprzN72h9MbfWFWoravJCM1JbIWRr3HGJGqC3pU.jpg",
+                      "width": 960,
+                      "height": 574,
+                      "user":  {
+                        "id": "1738504",
+                        "firstName": "Swapnil",
+                        "lastName": "Kambli",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/1738504-PSCS3ALG30UXROLW.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "534d7a62498e19613d3c6cf5",
+          "createdAt": 1397586530,
+          "text": "Hungry at any time.....this place wont let u sleep empty......one of the best places for raaat ka rowdy ghumna and khaaaana",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/534d7a62498e19613d3c6cf5",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4daf40334b22d9b3bcbda566",
+            "name": "Cafe Naaz",
+            "contact":  {},
+            "location":  {
+              "address": "Off Westen Exp. Highway",
+              "crossStreet": "Dahisar",
+              "lat": 19.24425023801816,
+              "lng": 72.86430102414359,
+              "cc": "IN",
+              "city": "Mumbai",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "Off Westen Exp. Highway (Dahisar)",
+                "Mumbai",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 113,
+              "usersCount": 45,
+              "tipCount": 3
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "rating": 5.7,
+            "ratingSignals": 8,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50c4ca67e4b0309a6531bd46",
+                      "createdAt": 1355074151,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/2608482_TUdGTmuIlMZtYVI48DSkTQjvPY5S60Ad1w1xCqoswg8.jpg",
+                      "width": 537,
+                      "height": 720,
+                      "user":  {
+                        "id": "2608482",
+                        "firstName": "Vishal",
+                        "lastName": "Salunkhe",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/2608482-I2RNZAKZUERK1QZU.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "5325307911d2596f004dcb3f",
+          "createdAt": 1394946169,
+          "text": "Sunday Morning...Nothing more peaceful",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5325307911d2596f004dcb3f",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b0587d1f964a520d8a222e3",
+            "name": "Sanjay Gandhi National Park",
+            "contact":  {},
+            "location":  {
+              "address": "Western Express Highway",
+              "lat": 19.23135284838604,
+              "lng": 72.86368372101519,
+              "postalCode": "400 066",
+              "cc": "IN",
+              "city": "Mumbai",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "Western Express Highway",
+                "Mumbai 400 066",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d163941735",
+                "name": "Park",
+                "pluralName": "Parks",
+                "shortName": "Park",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 3765,
+              "usersCount": 1713,
+              "tipCount": 75
+            },
+            "url": "http://www.sanjaygandhinationalpark.com",
+            "rating": 9.1,
+            "ratingSignals": 150,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5106f064e4b0252f5ffdf148",
+                      "createdAt": 1359409252,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/30514102_QgT70td3GCHNhU_GN3YaT6AsEP6Hp07AE1t5t2GeoK8.jpg",
+                      "width": 960,
+                      "height": 707,
+                      "user":  {
+                        "id": "30514102",
+                        "firstName": "MELUHA™",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/-2BEY4DSG3AMB5UX2.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "5323d04211d269d53ee8bb3a",
+          "createdAt": 1394856002,
+          "text": "Still an addiction",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5323d04211d269d53ee8bb3a",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "5281f9a911d2d78886fc2bec",
+            "name": "Ozone Gaming Cafe",
+            "contact":  {},
+            "location":  {
+              "lat": 19.239889090291012,
+              "lng": 72.86480294234947,
+              "cc": "IN",
+              "country": "India"
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d18d941735",
+                "name": "Gaming Cafe",
+                "pluralName": "Gaming Cafes",
+                "shortName": "Gaming Cafe",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gamingcafe_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 14,
+              "usersCount": 4,
+              "tipCount": 1
+            },
+            "allowMenuUrlEdit": true
+          }
+        }
+      ]
+    }
+  }
+}

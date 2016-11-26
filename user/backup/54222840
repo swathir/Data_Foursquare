@@ -1,0 +1,1026 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "5637434d498ede1d069ce1fa"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 11,
+      "items":  [
+         {
+          "id": "5355012311d23ae3d6ca8ad3",
+          "createdAt": 1398079779,
+          "text": "Mucho pescaitos. Cristos",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5355012311d23ae3d6ca8ad3",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4e2b2fb0aeb745b1fac0fafb",
+            "name": "Bar Freiduria Jardines",
+            "contact":  {},
+            "location":  {
+              "lat": 36.16212507335622,
+              "lng": -5.34024887618489,
+              "cc": "ES",
+              "country": "España",
+              "formattedAddress":  [
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1ce941735",
+                "name": "Seafood Restaurant",
+                "pluralName": "Seafood Restaurants",
+                "shortName": "Seafood",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 21,
+              "usersCount": 16,
+              "tipCount": 7
+            },
+            "price":  {
+              "tier": 3,
+              "message": "Expensive",
+              "currency": "€"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fb65498e4b0be3535d583aa",
+                      "createdAt": 1337349272,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/imauBXhmYvFshPofU3cXK2Da8-eb_RL5B4Tv9aZRIm0.jpg",
+                      "width": 720,
+                      "height": 537,
+                      "user":  {
+                        "id": "1846399",
+                        "firstName": "Tony",
+                        "lastName": "Moyano Gonzalez",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/5LPXDRKZX1VX2NBG.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "5353a8bb498e8f6f4825f544",
+          "createdAt": 1397991611,
+          "text": "Buen sitio",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5353a8bb498e8f6f4825f544",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "518b9080498ed9fff4485bf3",
+            "name": "Soorya Guest Inn",
+            "contact":  {},
+            "location":  {
+              "lat": 6.872136116027832,
+              "lng": 81.04876708984375,
+              "cc": "LK",
+              "country": "ශ්‍රී ලංකාව",
+              "formattedAddress":  [
+                "ශ්‍රී ලංකාව"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1f8931735",
+                "name": "Bed & Breakfast",
+                "pluralName": "Bed & Breakfasts",
+                "shortName": "B & B",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/bedandbreakfast_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 13,
+              "usersCount": 10,
+              "tipCount": 3
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "535479db498efba2c63a367f",
+                      "createdAt": 1398045147,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/52940045_TsU8jDfiQ_wxkjI4YX2-nfIh_tMGDZpBn1IuHEzABb8.jpg",
+                      "width": 640,
+                      "height": 640,
+                      "user":  {
+                        "id": "52940045",
+                        "firstName": "Katerina",
+                        "lastName": "Karzova",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/I14R4MBN0TY1HQOH.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "535297d2498ed12fd0bf5568",
+          "createdAt": 1397921746,
+          "text": "Buen sitio para comer",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/535297d2498ed12fd0bf5568",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4e2b2fb0aeb745b1fac0fafb",
+            "name": "Bar Freiduria Jardines",
+            "contact":  {},
+            "location":  {
+              "lat": 36.16212507335622,
+              "lng": -5.34024887618489,
+              "cc": "ES",
+              "country": "España",
+              "formattedAddress":  [
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1ce941735",
+                "name": "Seafood Restaurant",
+                "pluralName": "Seafood Restaurants",
+                "shortName": "Seafood",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 21,
+              "usersCount": 16,
+              "tipCount": 7
+            },
+            "price":  {
+              "tier": 3,
+              "message": "Expensive",
+              "currency": "€"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fb65498e4b0be3535d583aa",
+                      "createdAt": 1337349272,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/imauBXhmYvFshPofU3cXK2Da8-eb_RL5B4Tv9aZRIm0.jpg",
+                      "width": 720,
+                      "height": 537,
+                      "user":  {
+                        "id": "1846399",
+                        "firstName": "Tony",
+                        "lastName": "Moyano Gonzalez",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/5LPXDRKZX1VX2NBG.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "5346ef9611d22c65ce70dbd7",
+          "createdAt": 1397157782,
+          "text": "Un buen. Hotel",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5346ef9611d22c65ce70dbd7",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b829622f964a52081d930e3",
+            "name": "Hotel María Cristina",
+            "contact":  {
+              "phone": "+34943437600",
+              "formattedPhone": "+34 943 43 76 00",
+              "twitter": "spg",
+              "facebook": "8038492631",
+              "facebookUsername": "SPG",
+              "facebookName": "Starwood Preferred Guest® (SPG)"
+            },
+            "location":  {
+              "address": "Paseo República Argentina 4",
+              "lat": 43.32180586077073,
+              "lng": -1.9802427291870117,
+              "postalCode": "20004",
+              "cc": "ES",
+              "city": "San Sebastián",
+              "state": "País Vasco",
+              "country": "España",
+              "formattedAddress":  [
+                "Paseo República Argentina 4",
+                "20004 San Sebastián País Vasco",
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1fa931735",
+                "name": "Hotel",
+                "pluralName": "Hotels",
+                "shortName": "Hotel",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 2443,
+              "usersCount": 1204,
+              "tipCount": 33
+            },
+            "url": "http://www.spg.com/foursquare/",
+            "rating": 9.6,
+            "ratingSignals": 104,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5240029211d22e34c5ea9a18",
+                      "createdAt": 1379926674,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/51450126_SV_EWRVxPR6fz6FyhPA373Xwi4XFl_bwnQoP2VNSmGg.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "51450126",
+                        "firstName": "David",
+                        "lastName": "Pons",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/R2QBT01OHP5M2A23.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            },
+            "storeId": "86"
+          }
+        },
+         {
+          "id": "53428eca498e8dee96b00a64",
+          "createdAt": 1396870858,
+          "text": "En torre almirante. Al 7 _4 _2014",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/53428eca498e8dee96b00a64",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4e1d8885e4cd450a8571d104",
+            "name": "Algeciras",
+            "contact":  {},
+            "location":  {
+              "lat": 36.132145317185454,
+              "lng": -5.448647789427385,
+              "postalCode": "11206",
+              "cc": "ES",
+              "city": "Cádiz",
+              "state": "Andalucía",
+              "country": "España",
+              "formattedAddress":  [
+                "11206 Cádiz Andalucía",
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "50aa9e094b90af0d42d5de0d",
+                "name": "City",
+                "pluralName": "Cities",
+                "shortName": "City",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 2724,
+              "usersCount": 950,
+              "tipCount": 8
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50569dbee4b03ac263d61528",
+                      "createdAt": 1347853758,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/4248952_39gx32izocZBuHAs2iUckbgA99JrRfy2ihQkxIU2E4g.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "4248952",
+                        "firstName": "Amadeo",
+                        "lastName": "Landero",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/JYJ1WDJHN2YRYCKZ.png"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "5301d150498e2b04bcb4828c",
+          "createdAt": 1392628048,
+          "text": "Firtstop En carreera Cádiz málaga. Frente San José artesano. En el Cruses. La granja",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5301d150498e2b04bcb4828c",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "54222840",
+                    "firstName": "Manolo",
+                    "lastName": "Guerrero",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs1.4sqi.net/img/user/",
+                      "suffix": "/-EETHBRSN15WRVWWE.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4f928b36e4b00825651153d2",
+            "name": "Farmacia Carolina Torres",
+            "contact":  {},
+            "location":  {
+              "lat": 36.14362676668024,
+              "lng": -5.450582221539441,
+              "cc": "ES",
+              "country": "España",
+              "formattedAddress":  [
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f951735",
+                "name": "Drugstore / Pharmacy",
+                "pluralName": "Drugstores / Pharmacies",
+                "shortName": "Pharmacy",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 35,
+              "usersCount": 10,
+              "tipCount": 2
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "531881cc498ee068af201c4a",
+                      "createdAt": 1394115020,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/54222840_dVEoZinjL2acfq7cgYmJq0GT7bEjg6gP2EHB8ZpFBgg.jpg",
+                      "width": 640,
+                      "height": 640,
+                      "user":  {
+                        "id": "54222840",
+                        "firstName": "Manolo",
+                        "lastName": "Guerrero",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/-EETHBRSN15WRVWWE.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "52cbd4d6498ea9e0280c0abe",
+          "createdAt": 1389090006,
+          "text": "Esto estas muy bien me gustas",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/52cbd4d6498ea9e0280c0abe",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "42853f80f964a520fb221fe3",
+            "name": "Universal CityWalk",
+            "contact":  {
+              "phone": "+18186221111",
+              "formattedPhone": "+1 818-622-1111",
+              "twitter": "citywalkla"
+            },
+            "location":  {
+              "address": "100 Universal City Plz",
+              "crossStreet": "btwn Barham Blvd & Lankershim Blvd",
+              "lat": 34.13622895928153,
+              "lng": -118.35311651229858,
+              "postalCode": "91608",
+              "cc": "US",
+              "city": "Universal City",
+              "state": "CA",
+              "country": "United States",
+              "formattedAddress":  [
+                "100 Universal City Plz (btwn Barham Blvd & Lankershim Blvd)",
+                "Universal City, CA 91608",
+                "United States"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d164941735",
+                "name": "Plaza",
+                "pluralName": "Plazas",
+                "shortName": "Plaza",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 55292,
+              "usersCount": 33423,
+              "tipCount": 146
+            },
+            "url": "http://t.co/kI8pE6t1QF",
+            "rating": 9.3,
+            "ratingSignals": 1047,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50ad83c2e4b0d4508a15d630",
+                      "createdAt": 1353548738,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/28200282_qF5IUa9LzEvAezKeW9KxNZMTVC96Xyw9dMunAFlrRmQ.jpg",
+                      "width": 612,
+                      "height": 612,
+                      "user":  {
+                        "id": "28200282",
+                        "firstName": "Karla",
+                        "lastName": "Contreras",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/28200282-FZRQBIPD0AG2A15L.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            },
+            "storeId": "4"
+          }
+        },
+         {
+          "id": "52c53989498efc4e2ca930b5",
+          "createdAt": 1388657033,
+          "text": "Amigo De castillos De Cádiz",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/52c53989498efc4e2ca930b5",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4ef6151e722e34060e31c0f7",
+            "name": "Jagabay Resort",
+            "contact":  {},
+            "location":  {
+              "lat": 5.967187099481351,
+              "lng": 80.45071750532023,
+              "cc": "LK",
+              "city": "Weligama",
+              "state": "Southern",
+              "country": "ශ්‍රී ලංකාව",
+              "formattedAddress":  [
+                "Weligama",
+                "ශ්‍රී ලංකාව"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1f8931735",
+                "name": "Bed & Breakfast",
+                "pluralName": "Bed & Breakfasts",
+                "shortName": "B & B",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/bedandbreakfast_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 185,
+              "usersCount": 72,
+              "tipCount": 6
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "54fbb184498e789379f818eb",
+                      "createdAt": 1425781124,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/25945760_AwsRiQAZrqWwMojs6hKneUXGDR-lr45sNW27bcznaMU.jpg",
+                      "width": 960,
+                      "height": 540,
+                      "user":  {
+                        "id": "25945760",
+                        "firstName": "Alexandra",
+                        "lastName": "Nikitina",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/XNMLYHTJOFGGTZ2P.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "52a21f6511d28f50e70a200e",
+          "createdAt": 1386356581,
+          "text": "Un buen puerto el de Algeciras",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/52a21f6511d28f50e70a200e",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "54222840",
+                    "firstName": "Manolo",
+                    "lastName": "Guerrero",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs1.4sqi.net/img/user/",
+                      "suffix": "/-EETHBRSN15WRVWWE.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 1
+          },
+          "venue":  {
+            "id": "4cde95b4f8cdb1f7a7f48b12",
+            "name": "Puerto de Algeciras",
+            "contact":  {},
+            "location":  {
+              "address": "Av. Virgen del Carmen",
+              "lat": 36.13007618152167,
+              "lng": -5.439863204956055,
+              "postalCode": "11202",
+              "cc": "ES",
+              "city": "Algeciras",
+              "state": "Andalucía",
+              "country": "España",
+              "formattedAddress":  [
+                "Av. Virgen del Carmen",
+                "11202 Algeciras Andalucía",
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1e0941735",
+                "name": "Harbor / Marina",
+                "pluralName": "Harbors / Marinas",
+                "shortName": "Harbor / Marina",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/harbor_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 2531,
+              "usersCount": 1215,
+              "tipCount": 10
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4e8b167046906c10f81ced30",
+                      "createdAt": 1317738096,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/SI4QWEG4K4JWT5GSRFCQ4W5C2COLEYTUDXR32C0AM0GG2RMM.jpg",
+                      "width": 640,
+                      "height": 480,
+                      "user":  {
+                        "id": "11539823",
+                        "firstName": "Takeshi",
+                        "lastName": "S",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/M122K1IAGOGTO5YE.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "529da6b311d2a4c5b58eaa67",
+          "createdAt": 1386063539,
+          "text": "Uno de los ma bonito de campo de gibraltar",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/529da6b311d2a4c5b58eaa67",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c6c254646353704a49405bc",
+            "name": "Parque María Cristina",
+            "contact":  {},
+            "location":  {
+              "lat": 36.13468607698301,
+              "lng": -5.449090003967285,
+              "cc": "ES",
+              "country": "España",
+              "formattedAddress":  [
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d163941735",
+                "name": "Park",
+                "pluralName": "Parks",
+                "shortName": "Park",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 763,
+              "usersCount": 155,
+              "tipCount": 3
+            },
+            "rating": 7.9,
+            "ratingSignals": 13,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "561ad3be498e8756eb4e4bec",
+                      "createdAt": 1444598718,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/67697181_w8fDn0psVsBYTKUenBl3UThV9gbAmuBWD5iO-2OfPhw.jpg",
+                      "width": 960,
+                      "height": 538,
+                      "user":  {
+                        "id": "67697181",
+                        "firstName": "Amanda",
+                        "lastName": "Vázquez",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/67697181-1KE4LGEUP1ZSJ3TS.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "525e8d7211d2571eeac960ed",
+          "createdAt": 1381928306,
+          "text": "Me. En canta. Tarifa",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/525e8d7211d2571eeac960ed",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "91030349",
+                    "firstName": "Javier",
+                    "lastName": "Gil Maestre",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs1.4sqi.net/img/user/",
+                      "suffix": "/91030349-DBMN3HQHJLY1TSKK.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4d32c7775017a09367a84c9b",
+            "name": "Playa de Los Lances",
+            "contact":  {},
+            "location":  {
+              "address": "Paseo Marítimo",
+              "lat": 36.01675414147546,
+              "lng": -5.6133270263671875,
+              "postalCode": "11380",
+              "cc": "ES",
+              "city": "Tarifa",
+              "state": "Andalucía",
+              "country": "España",
+              "formattedAddress":  [
+                "Paseo Marítimo",
+                "11380 Tarifa Andalucía",
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1e2941735",
+                "name": "Beach",
+                "pluralName": "Beaches",
+                "shortName": "Beach",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 2056,
+              "usersCount": 1219,
+              "tipCount": 28
+            },
+            "rating": 9.1,
+            "ratingSignals": 96,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fce68f3e4b0fb844e0e2469",
+                      "createdAt": 1338927347,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/Nb9rZY9UCbC17RrboHxhREfiqFEb8xyVSN9l9ZKRv38.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "555790",
+                        "firstName": "Daniel",
+                        "lastName": "Scarlato",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/555790-FDKIX4GNP42X5LFZ.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

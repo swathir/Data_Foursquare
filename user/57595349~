@@ -1,0 +1,371 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+33
+X-ex:
+fastly_cdn
+Content-Length:
+5467
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+488
+X-Served-By:
+cache-iad2123-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Tue, 03 Nov 2015 09:20:40 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56387c68498eb19b638e2f04"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 3,
+      "items":  [
+         {
+          "id": "5277ddf811d2508b4ddd969a",
+          "createdAt": 1383587320,
+          "text": "NYC Food Quality as well as quantity and a lovely ambience..",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/5277ddf811d2508b4ddd969a",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4eb64c59dab4fe511206b7da",
+            "name": "Borivali Biryani Centre",
+            "contact":  {
+              "phone": "02249173818",
+              "formattedPhone": "022 4917 3818"
+            },
+            "location":  {
+              "address": "Khopat S.T. Depo, next To Akruti SMC Centre,",
+              "crossStreet": "Khopat Charai Crossing",
+              "lat": 19.20171498727028,
+              "lng": 72.97344641855419,
+              "postalCode": "400601",
+              "cc": "IN",
+              "city": "Mumbai",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "Khopat S.T. Depo, next To Akruti SMC Centre, (Khopat Charai Crossing)",
+                "Thane West 400601",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10f941735",
+                "name": "Indian Restaurant",
+                "pluralName": "Indian Restaurants",
+                "shortName": "Indian",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 113,
+              "usersCount": 87,
+              "tipCount": 6
+            },
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "rating": 6.2,
+            "ratingSignals": 15,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "508d64ede4b0167a9e516cc5",
+                      "createdAt": 1351443693,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/139117_7sUH0I4lEOsS4J7GlLIhWt3x4nMnKYxnNdJUN28erNA.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "139117",
+                        "firstName": "Rahul",
+                        "lastName": "Chopadekar",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/-1_1259842730958.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "51ece0bd498e90e30b193374",
+          "createdAt": 1374478525,
+          "text": "D yummiest Manchaow soup",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51ece0bd498e90e30b193374",
+          "likes":  {
+            "count": 2,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 2,
+                "items":  [
+                   {
+                    "id": "16770855",
+                    "firstName": "Rupesh",
+                    "lastName": "Malewadkar",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/YHYAOAP0LYDLQ41K.jpg"
+                    }
+                  },
+                   {
+                    "id": "51255329",
+                    "firstName": "Ritesh",
+                    "lastName": "Kadam",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/RMJQ0M34ONC4XUSE.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "2 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "51152c95e4b013e4995e62d0",
+            "name": "Spice N Wok",
+            "contact":  {},
+            "location":  {
+              "address": "Shop no.1, Gautam Chamber, opp State bank of hyderabad, Khopat, Thane (w)",
+              "lat": 19.203983692550956,
+              "lng": 72.9702517295086,
+              "cc": "IN",
+              "city": "Thāne",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "Shop no.1, Gautam Chamber, opp State bank of hyderabad, Khopat, Thane (w)",
+                "Thāne",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d145941735",
+                "name": "Chinese Restaurant",
+                "pluralName": "Chinese Restaurants",
+                "shortName": "Chinese",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 24,
+              "usersCount": 10,
+              "tipCount": 3
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5353f61e498ed5a1a51cf8da",
+                      "createdAt": 1398011422,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/19599946_kqp9L-4zQcj018cShXcCaXICDtITUEpUl3NuuLFOWAI.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "19599946",
+                        "firstName": "Vinit",
+                        "lastName": "Ingle",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/-RUEIUIE0E3NFH5MU.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "51d986d4498ed588319315d1",
+          "createdAt": 1373210324,
+          "text": "awesome Irish Coffee",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51d986d4498ed588319315d1",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4cf610921801a1438246e7d4",
+            "name": "Café Coffee Day",
+            "contact":  {
+              "twitter": "cafecoffeeday"
+            },
+            "location":  {
+              "address": "Korum Mall",
+              "crossStreet": "at Shahid Mangal Pandey Rd.",
+              "lat": 19.2024639670393,
+              "lng": 72.96551585197449,
+              "cc": "IN",
+              "city": "Thāne",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "Korum Mall (at Shahid Mangal Pandey Rd.)",
+                "Thāne",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1e0931735",
+                "name": "Coffee Shop",
+                "pluralName": "Coffee Shops",
+                "shortName": "Coffee Shop",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 499,
+              "usersCount": 243,
+              "tipCount": 6
+            },
+            "url": "http://www.cafecoffeeday.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 7.8,
+            "ratingSignals": 21,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51939c40498ebdd455a883e7",
+                      "createdAt": 1368628288,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/36966206_rGAJuPaAslQw4v5JIjDbssA7_kxAWqrVR61_HFRuklg.jpg",
+                      "width": 717,
+                      "height": 959,
+                      "user":  {
+                        "id": "36966206",
+                        "firstName": "Gaurang",
+                        "lastName": "Desai",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/36966206-N1JZULOPM4WKVR0W.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

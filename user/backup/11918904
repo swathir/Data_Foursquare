@@ -1,0 +1,205 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "5639c7ac498e47752d7c85b5"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 2,
+      "items":  [
+         {
+          "id": "4e382ed1aeb7c8fe3178e769",
+          "createdAt": 1312304849,
+          "text": "Remove cash from axis bank and gve me lolzz",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4e382ed1aeb7c8fe3178e769",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  []
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4dcb94f945dd38312287ab7b",
+            "name": "Axis Bank Borivali West",
+            "contact":  {},
+            "location":  {
+              "address": "chamunda circle",
+              "lat": 19.23096354067276,
+              "lng": 72.85467207010994,
+              "cc": "IN",
+              "city": "Mumbai",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "chamunda circle",
+                "Mumbai",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10a951735",
+                "name": "Bank",
+                "pluralName": "Banks",
+                "shortName": "Bank",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 46,
+              "usersCount": 28,
+              "tipCount": 2
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4e351adae4cd9aba7cc136ec",
+                      "createdAt": 1312103130,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/1JKRGV0G5N2YN4FYBAGIUGO3ABVF3NFW240MMEOYAASWDKJJ.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "11918904",
+                        "firstName": "Rush",
+                        "lastName": "King",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/OY45OFYMCYHRLUCC.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4e34145a483b5fa587530e77",
+          "createdAt": 1312035930,
+          "text": "Hii dhara sssup",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4e34145a483b5fa587530e77",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4d84d2515ad3a0935396d7fd",
+            "name": "Temptations",
+            "contact":  {},
+            "location":  {
+              "address": "Borivali",
+              "lat": 19.233589083276378,
+              "lng": 72.85356434086717,
+              "cc": "IN",
+              "city": "Mumbai",
+              "state": "Mahārāshtra",
+              "country": "India",
+              "formattedAddress":  [
+                "Borivali",
+                "Mumbai",
+                "Mahārāshtra"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1c9941735",
+                "name": "Ice Cream Shop",
+                "pluralName": "Ice Cream Shops",
+                "shortName": "Ice Cream",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 285,
+              "usersCount": 153,
+              "tipCount": 6
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "53133bbd498ebbd591e70c34",
+                      "createdAt": 1393769405,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/22549674_Ac8DMJhzlFxFd3co61Fs7YkxWoYyU0JICuRJPIWEjvE.jpg",
+                      "width": 540,
+                      "height": 960,
+                      "user":  {
+                        "id": "22549674",
+                        "firstName": "Saish",
+                        "lastName": "Sankhe",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/22549674-QYQ0C0KLWPUQMLEO.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

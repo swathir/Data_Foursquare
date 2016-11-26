@@ -1,0 +1,981 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "5638803b498e86832bdec1e7"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 9,
+      "items":  [
+         {
+          "id": "55ad99ed498e233e4c2b91f3",
+          "createdAt": 1437440493,
+          "text": "Really Nice view and a delicious burgers",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/55ad99ed498e233e4c2b91f3",
+          "photo":  {
+            "id": "55ad9a05498ef3b75936e5ed",
+            "createdAt": 1437440517,
+            "source":  {
+              "name": "Foursquare for Android",
+              "url": "https://foursquare.com/download/#/android"
+            },
+            "prefix": "https://irs2.4sqi.net/img/general/",
+            "suffix": "/17670030_80NmX5hoACrmSNA8gfrVTYCqdnTO1rwZITdcTE4Myn8.jpg",
+            "width": 5312,
+            "height": 2988
+          },
+          "photourl": "https://irs2.4sqi.net/img/general/original/17670030_80NmX5hoACrmSNA8gfrVTYCqdnTO1rwZITdcTE4Myn8.jpg",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b10463af964a520ce6c23e3",
+            "name": "LOCAL Public Eatery Kitsilano",
+            "contact":  {
+              "phone": "+16047343589",
+              "formattedPhone": "+1 604-734-3589",
+              "twitter": "localkits",
+              "facebook": "157379987623411",
+              "facebookUsername": "LOCALKits",
+              "facebookName": "Local Public Eatery Kitsilano"
+            },
+            "location":  {
+              "address": "2210 Cornwall Ave",
+              "crossStreet": "at Yew St",
+              "lat": 49.27246742202468,
+              "lng": -123.1553306844526,
+              "postalCode": "V6K 1B5",
+              "cc": "CA",
+              "city": "Vancouver",
+              "state": "BC",
+              "country": "Canada",
+              "formattedAddress":  [
+                "2210 Cornwall Ave (at Yew St)",
+                "Vancouver BC V6K 1B5",
+                "Canada"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d116941735",
+                "name": "Bar",
+                "pluralName": "Bars",
+                "shortName": "Bar",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 5589,
+              "usersCount": 2238,
+              "tipCount": 54
+            },
+            "url": "http://localkits.com",
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "$"
+            },
+            "hasMenu": true,
+            "rating": 8.4,
+            "ratingSignals": 161,
+            "menu":  {
+              "type": "Menu",
+              "label": "Menu",
+              "anchor": "View Menu",
+              "url": "https://foursquare.com/v/local-public-eatery-kitsilano/4b10463af964a520ce6c23e3/menu",
+              "mobileUrl": "https://foursquare.com/v/4b10463af964a520ce6c23e3/device_menu"
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fb6f87fe4b0abf74ee50453",
+                      "createdAt": 1337391231,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/6vbv2hOvht3uHjmgLNopzL1KZocCjxuph_MKavJB33k.jpg",
+                      "width": 540,
+                      "height": 720,
+                      "user":  {
+                        "id": "3464688",
+                        "firstName": "Tiffany",
+                        "lastName": "Moore",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/2PZBZMLEAQKF0ULX.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            },
+            "venuePage":  {
+              "id": "55589763"
+            },
+            "storeId": ""
+          }
+        },
+         {
+          "id": "520e7032498e3ee77fa7bfc9",
+          "createdAt": 1376677938,
+          "text": "Amazing Restaurant!!!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/520e7032498e3ee77fa7bfc9",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4a270666f964a520d88a1fe3",
+            "name": "Sofitel Legend The Grand Amsterdam",
+            "contact":  {
+              "phone": "+31205553111",
+              "formattedPhone": "+31 20 555 3111",
+              "twitter": "sofitelnews",
+              "facebook": "230319380324682",
+              "facebookUsername": "SofitelLegendTheGrandAmsterdam",
+              "facebookName": "Sofitel Legend The Grand Amsterdam"
+            },
+            "location":  {
+              "address": "Oudezijds Voorburgwal 197",
+              "lat": 52.371175,
+              "lng": 4.895447,
+              "postalCode": "1012 EX",
+              "cc": "NL",
+              "city": "Amsterdam",
+              "state": "Noord-Holland",
+              "country": "Nederland",
+              "formattedAddress":  [
+                "Oudezijds Voorburgwal 197",
+                "1012 EX Amsterdam",
+                "Nederland"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1fa931735",
+                "name": "Hotel",
+                "pluralName": "Hotels",
+                "shortName": "Hotel",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 4522,
+              "usersCount": 2154,
+              "tipCount": 52
+            },
+            "url": "http://www.sofitel.com",
+            "rating": 9.4,
+            "ratingSignals": 149,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4f865ee3e4b044d3a59b21b8",
+                      "createdAt": 1334206179,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/96CgWjTZ575Z78njTbpvC8Nj6BJCrsaqt1F1ziCyOhs.jpg",
+                      "width": 540,
+                      "height": 540,
+                      "user":  {
+                        "id": "13152975",
+                        "firstName": "ArtJonak",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/BDCTN0QSGNHOOM0K.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            },
+            "storeId": ""
+          }
+        },
+         {
+          "id": "51eab7e5e4b0cf598bede375",
+          "createdAt": 1374336997,
+          "text": "Camarão ao Chapagne",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51eab7e5e4b0cf598bede375",
+          "photo":  {
+            "id": "51eab7ee498e8a37f7ce043e",
+            "createdAt": 1374337006,
+            "source":  {
+              "name": "Foursquare for Android",
+              "url": "https://foursquare.com/download/#/android"
+            },
+            "prefix": "https://irs0.4sqi.net/img/general/",
+            "suffix": "/17670030_8vxMWo26giQp5vvJZ_eadR5dYsby2HEKlAeNOKU3D_g.jpg",
+            "width": 960,
+            "height": 720
+          },
+          "photourl": "https://irs0.4sqi.net/img/general/original/17670030_8vxMWo26giQp5vvJZ_eadR5dYsby2HEKlAeNOKU3D_g.jpg",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "16471934",
+                    "firstName": "Camila",
+                    "lastName": "Podolak",
+                    "gender": "female",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/PDVC2BVBOWRREARP.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4be70323cf200f473724153c",
+            "name": "Chalet Suisse",
+            "contact":  {
+              "phone": "+554133647889",
+              "formattedPhone": "+55 41 3364-7889",
+              "twitter": "chalet_suisse"
+            },
+            "location":  {
+              "address": "R. Francisco Dallalíbera, 1428",
+              "crossStreet": "Av. Fredolin Wolf",
+              "lat": -25.3924968,
+              "lng": -49.3331413269043,
+              "postalCode": "82030-290",
+              "cc": "BR",
+              "city": "Curitiba",
+              "state": "PR",
+              "country": "Brasil",
+              "formattedAddress":  [
+                "R. Francisco Dallalíbera, 1428 (Av. Fredolin Wolf)",
+                "Curitiba, PR",
+                "82030-290",
+                "Brasil"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d10c941735",
+                "name": "French Restaurant",
+                "pluralName": "French Restaurants",
+                "shortName": "French",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1087,
+              "usersCount": 803,
+              "tipCount": 36
+            },
+            "url": "http://www.restaurantechaletsuisse.com.br",
+            "price":  {
+              "tier": 3,
+              "message": "Expensive",
+              "currency": "$"
+            },
+            "rating": 9.3,
+            "ratingSignals": 111,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4fd14802e4b0f3584fc624db",
+                      "createdAt": 1339115522,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/XhwZoNh69C_w9ILPibMNlT-UQlQ77OcutuyVXWzMSEU.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "7833619",
+                        "firstName": "Gustavo",
+                        "lastName": "Campos",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/EB5PLSPL3MDWADTV.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "51cdcede498ecf5847b1203e",
+          "createdAt": 1372442334,
+          "text": "Excelente!!!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51cdcede498ecf5847b1203e",
+          "photo":  {
+            "id": "51cdcee4498e55d007a41cac",
+            "createdAt": 1372442340,
+            "source":  {
+              "name": "Foursquare for Android",
+              "url": "https://foursquare.com/download/#/android"
+            },
+            "prefix": "https://irs1.4sqi.net/img/general/",
+            "suffix": "/17670030_LEXC9i48EuoDUq0pyJjGf9Eh2TV-n-eDAocwgS4Ta7g.jpg",
+            "width": 960,
+            "height": 720
+          },
+          "photourl": "https://irs1.4sqi.net/img/general/original/17670030_LEXC9i48EuoDUq0pyJjGf9Eh2TV-n-eDAocwgS4Ta7g.jpg",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4f3c0f6b003943e8c97677cb",
+            "name": "Escola da Colina",
+            "contact":  {
+              "phone": "+554132821093",
+              "formattedPhone": "+55 41 3282-1093"
+            },
+            "location":  {
+              "address": "Av. Gozales Pecotche, 123",
+              "crossStreet": "R. Friedrich Nietzsche",
+              "lat": -25.540882937252636,
+              "lng": -49.216400384902954,
+              "postalCode": "83030-200",
+              "cc": "BR",
+              "city": "São José dos Pinhais",
+              "state": "PR",
+              "country": "Brasil",
+              "formattedAddress":  [
+                "Av. Gozales Pecotche, 123 (R. Friedrich Nietzsche)",
+                "São José dos Pinhais, PR",
+                "83030-200",
+                "Brasil"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1a8941735",
+                "name": "General College & University",
+                "pluralName": "General Colleges & Universities",
+                "shortName": "Education",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/other_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 216,
+              "usersCount": 15,
+              "tipCount": 1
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "51cdcee4498e55d007a41cac",
+                      "createdAt": 1372442340,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/17670030_LEXC9i48EuoDUq0pyJjGf9Eh2TV-n-eDAocwgS4Ta7g.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "17670030",
+                        "firstName": "Eloina",
+                        "lastName": "Guerios",
+                        "gender": "female",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/WPYAHXG50JW5OBHP.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f673a6de4b0fb96f841ab24",
+          "createdAt": 1332165229,
+          "text": "Lotado a qualquer hora....",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f673a6de4b0fb96f841ab24",
+          "likes":  {
+            "count": 3,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 3,
+                "items":  [
+                   {
+                    "id": "60465019",
+                    "firstName": "Certidão Fácil Curitiba",
+                    "lastName": "www.certidaofacilcuritiba.com.br",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs1.4sqi.net/img/user/",
+                      "suffix": "/60465019-PPG15N52SMA53MOG.jpg"
+                    }
+                  },
+                   {
+                    "id": "7940380",
+                    "firstName": "Lilian",
+                    "lastName": "Wiczneski",
+                    "gender": "female",
+                    "photo":  {
+                      "prefix": "https://irs0.4sqi.net/img/user/",
+                      "suffix": "/EY4VFPGE1UNZ3BCC.jpg"
+                    }
+                  },
+                   {
+                    "id": "47795690",
+                    "firstName": "Fabiam",
+                    "lastName": "Fagner",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/QUZDNMDKXT5FUWGG.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "3 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c56d2f42308be9a74b0576c",
+            "name": "Cartório Distrital do Portão",
+            "contact":  {
+              "phone": "+554130131667",
+              "formattedPhone": "+55 41 3013-1667"
+            },
+            "location":  {
+              "address": "Av. Pres. Arthur Bernardes, 2350",
+              "crossStreet": "R. Francisco Frischmann",
+              "lat": -25.470786120212967,
+              "lng": -49.29498910903931,
+              "postalCode": "80320-300",
+              "cc": "BR",
+              "city": "Curitiba",
+              "state": "PR",
+              "country": "Brasil",
+              "formattedAddress":  [
+                "Av. Pres. Arthur Bernardes, 2350 (R. Francisco Frischmann)",
+                "Curitiba, PR",
+                "80320-300",
+                "Brasil"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d124941735",
+                "name": "Office",
+                "pluralName": "Offices",
+                "shortName": "Office",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1666,
+              "usersCount": 1012,
+              "tipCount": 32
+            },
+            "url": "http://www.cartoriodoportao.com.br",
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "55944eef498ed5859181f574",
+                      "createdAt": 1435782895,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/17652280_pBrefMSMh9LVlOX4nXTYH8RnsIR43HxhJCDPew04N1U.jpg",
+                      "width": 1440,
+                      "height": 1920,
+                      "user":  {
+                        "id": "17652280",
+                        "firstName": "Fernando",
+                        "lastName": "Yamagishi",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/RTSWTR33WJI4BZIZ.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f184e61e4b0e5837c07693f",
+          "createdAt": 1326992993,
+          "text": "Boa loja, bons preços!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f184e61e4b0e5837c07693f",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4eb68f5ce5fa17fc873d52c5",
+            "name": "Vitrine",
+            "contact":  {},
+            "location":  {
+              "lat": 38.753318003914245,
+              "lng": -8.939371537677705,
+              "cc": "PT",
+              "city": "Alcochete",
+              "state": "Setúbal",
+              "country": "Portugal",
+              "formattedAddress":  [
+                "Alcochete",
+                "Portugal"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d103951735",
+                "name": "Clothing Store",
+                "pluralName": "Clothing Stores",
+                "shortName": "Apparel",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 6,
+              "usersCount": 6,
+              "tipCount": 1
+            },
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50477687e4b0eef419b791b1",
+                      "createdAt": 1346860679,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/qCDCcFkg9O5k50iFzbsOXI8HUlj3o_KcYN3VzXp1dmc.jpg",
+                      "width": 612,
+                      "height": 612,
+                      "user":  {
+                        "id": "25803401",
+                        "firstName": "David",
+                        "lastName": "Santos",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/APPRWFHAEIMB43JZ.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f1602e2e4b0253d51500cfd",
+          "createdAt": 1326842594,
+          "text": "Um poco caro!!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f1602e2e4b0253d51500cfd",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4c54914f30f92d7f6e4cb0ba",
+            "name": "Restaurante Don Quijote",
+            "contact":  {},
+            "location":  {
+              "address": "R. Galeras, 20",
+              "lat": 42.88122640230131,
+              "lng": -8.549262047298479,
+              "cc": "ES",
+              "city": "Santiago de Compostela",
+              "state": "Galicia",
+              "country": "España",
+              "formattedAddress":  [
+                "R. Galeras, 20",
+                "Santiago de Compostela Galicia",
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1ce941735",
+                "name": "Seafood Restaurant",
+                "pluralName": "Seafood Restaurants",
+                "shortName": "Seafood",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 124,
+              "usersCount": 64,
+              "tipCount": 13
+            },
+            "price":  {
+              "tier": 3,
+              "message": "Expensive",
+              "currency": "€"
+            },
+            "rating": 6.5,
+            "ratingSignals": 19,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4f491adf108184d2b3a242c1",
+                      "createdAt": 1330191071,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/rf9wX2-yu4NnXwfk3-4yhqFdlvO3G8P4UtKuIXitbF0.jpg",
+                      "width": 300,
+                      "height": 347,
+                      "user":  {
+                        "id": "22466206",
+                        "firstName": "Expreso",
+                        "gender": "none",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/BR0330W3P0BARISF.jpg"
+                        },
+                        "type": "page"
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f16029ae4b0005030a046c8",
+          "createdAt": 1326842522,
+          "text": "No se puede olvidar de visitar tambien el Museo",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f16029ae4b0005030a046c8",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4b686c10f964a52091772be3",
+            "name": "Catedral de Santiago de Compostela",
+            "contact":  {
+              "phone": "+34981569327",
+              "formattedPhone": "+34 981 56 93 27",
+              "twitter": "santiagoturismo"
+            },
+            "location":  {
+              "address": "Praza do Obradoiro",
+              "crossStreet": "Praza da Quintana",
+              "lat": 42.88057522520878,
+              "lng": -8.54460597038269,
+              "postalCode": "15782",
+              "cc": "ES",
+              "city": "Santiago de Compostela",
+              "state": "Galicia",
+              "country": "España",
+              "formattedAddress":  [
+                "Praza do Obradoiro (Praza da Quintana)",
+                "15782 Santiago de Compostela Galicia",
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d132941735",
+                "name": "Church",
+                "pluralName": "Churches",
+                "shortName": "Church",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 7695,
+              "usersCount": 5594,
+              "tipCount": 92
+            },
+            "url": "http://www.catedraldesantiago.es",
+            "rating": 9.5,
+            "ratingSignals": 338,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "5094237de4b00a7cdd37d168",
+                      "createdAt": 1351885693,
+                      "prefix": "https://irs0.4sqi.net/img/general/",
+                      "suffix": "/30826771_qoNEr4q2IoVO6F1Zu2rKqyCDg1yWPb7VI_wGY4F0tZg.jpg",
+                      "width": 612,
+                      "height": 612,
+                      "user":  {
+                        "id": "30826771",
+                        "firstName": "Julio",
+                        "lastName": "Arias",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/RZA4MWEVXY5MO43V.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "4f1601dae4b01db0adbf5c6e",
+          "createdAt": 1326842330,
+          "text": "Maravilhoso!!",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/4f1601dae4b01db0adbf5c6e",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4bd74879304fce72154f33ab",
+            "name": "Hotel Parador de Santiago - Hostal dos Reis Católicos",
+            "contact":  {
+              "phone": "+34981582200",
+              "formattedPhone": "+34 981 58 22 00",
+              "twitter": "paradores",
+              "facebook": "110255829000664",
+              "facebookUsername": "paradores",
+              "facebookName": "Paradores"
+            },
+            "location":  {
+              "address": "Praza do Obradoiro 1",
+              "lat": 42.88099189963857,
+              "lng": -8.54586660861969,
+              "postalCode": "15705",
+              "cc": "ES",
+              "city": "Santiago de Compostela",
+              "state": "Galicia",
+              "country": "España",
+              "formattedAddress":  [
+                "Praza do Obradoiro 1",
+                "15705 Santiago de Compostela Galicia",
+                "España"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d1fa931735",
+                "name": "Hotel",
+                "pluralName": "Hotels",
+                "shortName": "Hotel",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 1813,
+              "usersCount": 1117,
+              "tipCount": 35
+            },
+            "url": "http://www.parador.es",
+            "rating": 9.1,
+            "ratingSignals": 74,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4f6c9b19e4b0ca47b01d44d7",
+                      "createdAt": 1332517657,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/WZUug5YVAzqcSBic0JWKYDtANlH7RJrbNXLJ8i4r_BI.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "22270258",
+                        "firstName": "LuisGrosales",
+                        "lastName": ".",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/2IIVTY4SBSNL2H5Z.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            },
+            "storeId": ""
+          }
+        }
+      ]
+    }
+  }
+}

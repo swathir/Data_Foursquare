@@ -1,0 +1,201 @@
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "56373611498e0f7bbdc848b5"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 2,
+      "items":  [
+         {
+          "id": "55297558498e7f381064e250",
+          "createdAt": 1428780376,
+          "text": "Welcome to windows10 technical preview",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/55297558498e7f381064e250",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4d7f577bdd4a6ea8377d7825",
+            "name": "Radiant Katriel",
+            "contact":  {},
+            "location":  {
+              "isFuzzed": true,
+              "lat": 12.978685346067012,
+              "lng": 77.71659254463381,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Seetharampalya",
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d103941735",
+                "name": "Home (private)",
+                "pluralName": "Homes (private)",
+                "shortName": "Home",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/home_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 39,
+              "usersCount": 5,
+              "tipCount": 1
+            },
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "4f83181de4b0cd6f643b7ace",
+                      "createdAt": 1333991453,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/FlCf2vGm0kZfLU-BRXKBpZTWYYRmyIClJGTeuZQoUC0.jpg",
+                      "width": 720,
+                      "height": 540,
+                      "user":  {
+                        "id": "24595220",
+                        "firstName": "Vamsi",
+                        "lastName": "Patchamatla",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs2.4sqi.net/img/user/",
+                          "suffix": "/EXMUUCLBSICLJCDX.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "50df3c10e4b028f655d330ed",
+          "createdAt": 1356807184,
+          "text": "Its been moved beside mc donalds near brookefield hospital",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/50df3c10e4b028f655d330ed",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4cdeb796db125481966832ce",
+            "name": "Chef Bakers",
+            "contact":  {},
+            "location":  {
+              "address": "Cosmos Mall",
+              "crossStreet": "Brookefield",
+              "lat": 12.967042497770038,
+              "lng": 77.71658416009193,
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "Cosmos Mall (Brookefield)",
+                "Bangalore",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16a941735",
+                "name": "Bakery",
+                "pluralName": "Bakeries",
+                "shortName": "Bakery",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 411,
+              "usersCount": 205,
+              "tipCount": 20
+            },
+            "url": "http://chefbakers.com",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 6.7,
+            "ratingSignals": 41,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "511f8e39e4b00750065503e4",
+                      "createdAt": 1361022521,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/47276518_urrKgYf8PnhjaRH4jOnSBFS9rh4iFxlUuZCG5iW6aeI.jpg",
+                      "width": 720,
+                      "height": 960,
+                      "user":  {
+                        "id": "47276518",
+                        "firstName": "Vaibhav",
+                        "lastName": "Gaikwad",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs0.4sqi.net/img/user/",
+                          "suffix": "/Y0NMENEJS4ECQ4UD.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

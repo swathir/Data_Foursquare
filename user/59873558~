@@ -1,0 +1,490 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+46
+X-ex:
+fastly_cdn
+Content-Length:
+7220
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+486
+X-Served-By:
+cache-iad2140-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Mon, 02 Nov 2015 09:54:25 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "563732d1498e920ceaa84d19"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "tips":  {
+      "count": 4,
+      "items":  [
+         {
+          "id": "53eba6d8498e3354b06f2ceb",
+          "createdAt": 1407952600,
+          "text": "O I love the jalapeño cheese poppers here. The galouti kebabs, just go for it 😉",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/53eba6d8498e3354b06f2ceb",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4de66c3de4cde71744bf83db",
+            "name": "Cafe Delhi Heights",
+            "contact":  {
+              "phone": "01246672033",
+              "formattedPhone": "0124 667 2033"
+            },
+            "location":  {
+              "address": "GL-121-123, 1st Floor, D.L.F. Cross Point, D.L.F. Phase-IV,",
+              "lat": 28.46817492251578,
+              "lng": 77.08380371332169,
+              "cc": "IN",
+              "city": "Gurgaon",
+              "state": "Haryāna",
+              "country": "India",
+              "formattedAddress":  [
+                "GL-121-123, 1st Floor, D.L.F. Cross Point, D.L.F. Phase-IV,",
+                "Gurgaon",
+                "Haryāna"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d16d941735",
+                "name": "Café",
+                "pluralName": "Cafés",
+                "shortName": "Café",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 1320,
+              "usersCount": 655,
+              "tipCount": 50
+            },
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 9,
+            "ratingSignals": 132,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "517e35a1e4b0e7110d76208a",
+                      "createdAt": 1367225761,
+                      "prefix": "https://irs1.4sqi.net/img/general/",
+                      "suffix": "/15798646_K7M_SSkbH9UUQkiz7DritB3TzDgg3CLAlIFwLOhQ6Z4.jpg",
+                      "width": 612,
+                      "height": 612,
+                      "user":  {
+                        "id": "15798646",
+                        "firstName": "Utsav",
+                        "lastName": "Ratti",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/15798646-KWAHPJJBMRT5CETN.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "52d84967498e5376e7f241e4",
+          "createdAt": 1389906279,
+          "text": "Awesome music. Love their quesadilla and mint choco chip shake :D",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/52d84967498e5376e7f241e4",
+          "likes":  {
+            "count": 1,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 1,
+                "items":  [
+                   {
+                    "id": "52093559",
+                    "firstName": "Jagdish",
+                    "lastName": "Joghee",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs2.4sqi.net/img/user/",
+                      "suffix": "/XQQEF5OBM0USQ1PS.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "1 like"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4ba91e52f964a520e40c3ae3",
+            "name": "TGI Friday's",
+            "contact":  {
+              "twitter": "tgifridaysindia"
+            },
+            "location":  {
+              "address": "MGF Metropolitan Mall",
+              "crossStreet": "MG Road",
+              "lat": 28.48009,
+              "lng": 77.080581,
+              "cc": "IN",
+              "city": "Gurgaon",
+              "state": "Haryāna",
+              "country": "India",
+              "formattedAddress":  [
+                "MGF Metropolitan Mall (MG Road)",
+                "Gurgaon",
+                "Haryāna"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d11b941735",
+                "name": "Pub",
+                "pluralName": "Pubs",
+                "shortName": "Pub",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 723,
+              "usersCount": 458,
+              "tipCount": 13
+            },
+            "url": "http://tgifindia.com/index.aspx",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 7.1,
+            "ratingSignals": 64,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "50990f2ee4b0cfbb6a1f5f9e",
+                      "createdAt": 1352208174,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/4134850_ZVwHPrjBaHgn17VhgF6zsBrjgd9JzNMNNpTyX6qtUCQ.jpg",
+                      "width": 540,
+                      "height": 720,
+                      "user":  {
+                        "id": "4134850",
+                        "firstName": "Kamal",
+                        "lastName": "Krishna",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/WZJYXBAOUSA2RIKM.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "521a397811d2b462670a8399",
+          "createdAt": 1377450360,
+          "text": "Really nice Asian food :) must go for spring rolls :p",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/521a397811d2b462670a8399",
+          "likes":  {
+            "count": 0,
+            "groups":  []
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 0
+          },
+          "venue":  {
+            "id": "4cac7ef897c8a1cd3031a1a5",
+            "name": "Turquoise Cottage",
+            "contact":  {},
+            "location":  {
+              "address": "JMD Plaza",
+              "crossStreet": "opp. sahara mall",
+              "lat": 28.480663743840317,
+              "lng": 77.08516119105171,
+              "cc": "IN",
+              "city": "Gurgaon",
+              "state": "Haryāna",
+              "country": "India",
+              "formattedAddress":  [
+                "JMD Plaza (opp. sahara mall)",
+                "Gurgaon",
+                "Haryāna"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d116941735",
+                "name": "Bar",
+                "pluralName": "Bars",
+                "shortName": "Bar",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": false,
+            "stats":  {
+              "checkinsCount": 734,
+              "usersCount": 379,
+              "tipCount": 19
+            },
+            "url": "http://turquoisecottage.com",
+            "price":  {
+              "tier": 2,
+              "message": "Moderate",
+              "currency": "₹"
+            },
+            "rating": 7.3,
+            "ratingSignals": 46,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "512a0601e4b038698c4a8aef",
+                      "createdAt": 1361708545,
+                      "prefix": "https://irs2.4sqi.net/img/general/",
+                      "suffix": "/47312713_IvrCOmKlhppPHr5jiwyXH349oXChLVg6SN_oG7uGbLU.jpg",
+                      "width": 960,
+                      "height": 720,
+                      "user":  {
+                        "id": "47312713",
+                        "firstName": "Hashim",
+                        "lastName": "Khan",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs3.4sqi.net/img/user/",
+                          "suffix": "/47312713-TAASJFTYIOUAZRB5.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+         {
+          "id": "51e7e162498e65d308157566",
+          "createdAt": 1374151010,
+          "text": "Love the nachos here :)",
+          "type": "user",
+          "canonicalUrl": "https://foursquare.com/item/51e7e162498e65d308157566",
+          "likes":  {
+            "count": 2,
+            "groups":  [
+               {
+                "type": "others",
+                "count": 2,
+                "items":  [
+                   {
+                    "id": "2941560",
+                    "firstName": "Niteesh",
+                    "lastName": "Mehra",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs0.4sqi.net/img/user/",
+                      "suffix": "/2941560-X2WPINPPS1PUDEPC.jpg"
+                    }
+                  },
+                   {
+                    "id": "48267593",
+                    "firstName": "Rnjai",
+                    "lastName": "Lamba",
+                    "gender": "male",
+                    "photo":  {
+                      "prefix": "https://irs3.4sqi.net/img/user/",
+                      "suffix": "/TDS5QQE25AFWMH1R.jpg"
+                    }
+                  }
+                ]
+              }
+            ],
+            "summary": "2 likes"
+          },
+          "like": false,
+          "logView": true,
+          "todo":  {
+            "count": 1
+          },
+          "venue":  {
+            "id": "4cf687d00a71224b518a1e93",
+            "name": "Taco Bell",
+            "contact":  {
+              "phone": "09986303447",
+              "formattedPhone": "099 86 303447"
+            },
+            "location":  {
+              "address": "80 Feet Peripheral Rd, Ejipura",
+              "crossStreet": "Koramangala",
+              "lat": 12.937474,
+              "lng": 77.626878,
+              "postalCode": "560034",
+              "cc": "IN",
+              "city": "Bangalore",
+              "state": "Karnātaka",
+              "country": "India",
+              "formattedAddress":  [
+                "80 Feet Peripheral Rd, Ejipura (Koramangala)",
+                "Bangalore 560034",
+                "Karnātaka"
+              ]
+            },
+            "categories":  [
+               {
+                "id": "4bf58dd8d48988d151941735",
+                "name": "Taco Place",
+                "pluralName": "Taco Places",
+                "shortName": "Tacos",
+                "icon":  {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+                  "suffix": ".png"
+                },
+                "primary": true
+              }
+            ],
+            "verified": true,
+            "stats":  {
+              "checkinsCount": 3110,
+              "usersCount": 1670,
+              "tipCount": 82
+            },
+            "url": "http://tacobell.co.in",
+            "price":  {
+              "tier": 1,
+              "message": "Cheap",
+              "currency": "₹"
+            },
+            "rating": 6.6,
+            "ratingSignals": 214,
+            "allowMenuUrlEdit": true,
+            "photos":  {
+              "count": 0,
+              "groups":  [
+                 {
+                  "type": "venue",
+                  "name": "Venue photos",
+                  "count": 0,
+                  "items":  [
+                     {
+                      "id": "511f8ea0e4b0b9b4fede1df8",
+                      "createdAt": 1361022624,
+                      "prefix": "https://irs3.4sqi.net/img/general/",
+                      "suffix": "/4644387_l8Cdh89Wt_ZQgS10lOgNEmqnbeV3eetjP_zyn3hgGhw.jpg",
+                      "width": 959,
+                      "height": 717,
+                      "user":  {
+                        "id": "4644387",
+                        "firstName": "Rithvik",
+                        "lastName": "Raja",
+                        "gender": "male",
+                        "photo":  {
+                          "prefix": "https://irs1.4sqi.net/img/user/",
+                          "suffix": "/L4QCICLN4NOI2B44.jpg"
+                        }
+                      },
+                      "visibility": "public"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
